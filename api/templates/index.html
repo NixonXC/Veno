@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Veno API</title>
+        <link rel="stylesheet" href="static/css/index.css">
+    </head>
+    <body>
+        <nav>
+            <div id="container" class="container">
+                <img id="menu" src="static/menu.svg" class="menu-logo" onclick="togglemenu()">
+                <ul id="ul">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="#endpoints">Endpoints</a></li>
+                    <li><a href="/playground">Playground</a></li>
+                    <li><a href="https://github.com/AtharvaKDev/Homer-API">Github</a></li>
+                </ul>
+            </div>
+            <ul id="menu-ul">
+                <li><a href="/">Home</a></li>
+                <li><a href="#endpoints">Endpoints</a></li>
+                <li><a href="https://github.com/AtharvaKDev/Homer-API">Github</a></li>
+            </ul>
+        </nav>
+        <div class="main">
+            <h1>Veno API</h1>
+            <p>Free Dark Jokes, Dad Jokes, Facts, Roasts and More!</p>
+            <button onclick="window.location.href = '/api/darkjoke'">Try Now</button>
+        </div>
+        <div class="endpoints" id="endpoints">
+            <h2>Endpoints</h2>
+            <div class="version">
+                <h3>/api/version</h3>
+                <p>Returns a the current API version</p>
+                <p>Format: JSON</p>
+            </div>
+            <hr>
+            <div class="roast">
+                <h3>/api/roast/(username)</h3>
+                <p>Roast someone.</p>
+                <p>Total Roasts: 208</p>
+                <p>Required Parameters: username</p>
+                <p>Format: JSON</p>
+                <p>Output Example:</p>
+                <div class="codearea">
+                    <p>{</p>
+                    <p id="data">"roast": "Homer, Your existence is an insult to evolution."</p>
+                    <p id="data">"target": "Homer"</p>
+                    <p>}</p>
+                </div>
+            </div>
+            <hr>
+            <div class="quote">
+                <h3>/api/quote</h3>
+                <p>Returns a Quote from the api.</p>
+                <p>Total Quotes: 120</p>
+                <p>Ratelimit: 100 Requests Per Minute</p>
+                <p>Format: JSON</p>
+                <p>Output Example:</p>
+                <div class="codearea">
+                    <p>{</p>
+                    <p id="data">"quote": "Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.",</p>
+                    <p id="data">"id": "1",</p>
+                    <p id="data">"author": "Sun Tzu"</p>
+                    <p>}</p>
+                </div>
+            </div>
+            <hr>
+            <div class="recommendation">
+                <h3>/api/recommendation</h3>
+                <p>Returns a Song Recommendation from the api.</p>
+                <p>Total Recommendations: 122</p>
+                <p>Ratelimit: 100 Requests Per Minute</p>
+                <p>Format: JSON</p>
+                <p>Output Example:</p>
+                <div class="codearea">
+                    <p>{</p>
+                    <p id="data">"artist": "Billie Eilish"</p>
+                    <p id="data">"id": "21",</p>
+                    <p id="data">"genre": "Pop/Alternative"</p>
+                    <p id="data">"song": "Happier Than Ever"</p>
+                    <p>}</p>
+                </div>
+            </div>
+            <hr>
+            <div class="darkjoke">
+                <h3>/api/darkjoke</h3>
+                <p>Returns a Dark Joke from the api.</p>
+                <p>Total Jokes: 112</p>
+                <p>Ratelimit: 100 Requests Per Minute</p>
+                <p>Format: JSON</p>
+                <p>Output Example:</p>
+                <div class="codearea">
+                    <p>{</p>
+                    <p id="data">"punchline": "To get to the other side... of the cemetery.",</p>
+                    <p id="data">"buildup": "Why did the chicken cross the road"</p>
+                    <p>}</p>
+                </div>
+            </div>
+            <hr>
+            <div class="devjoke">
+                <h3>/api/devjoke</h3>
+                <p>Returns a Developer Joke from the api.</p>
+                <p>Total Jokes: 203+</p>
+                <p>Ratelimit: 100 Requests Per Minute</p>
+                <p>Format: JSON</p>
+                <p>Output Example:</p>
+                <div class="codearea">
+                    <p>{</p>
+                    <p id="data">"buildup": "How do you fix a broken website"</p>
+                    <p id="data">"punchline": "With a CSS-truction manual!",</p>
+                    <p>}</p>
+                </div>
+            </div>
+            <hr>
+            <div class="joke">
+                <h3>/api/joke</h3>
+                <p>Returns a Joke from the api.</p>
+                <p>Total Jokes: 250+</p>
+                <p>Ratelimit: 100 Requests Per Minute</p>
+                <p>Format: JSON</p>
+                <p>Output Example:</p>
+                <div class="codearea">
+                    <p>{</p>
+                    <p id="data">"punchline": "Turns out it was the refrigerator all along.",</p>
+                    <p id="data">"buildup": "I thought the dryer was shrinking my clothes"</p>
+                    <p>}</p>
+                </div>
+            </div>
+            <hr>
+            <div class="fact">
+                <h3>/api/fact</h3>
+                <p>Returns a Fact from the api.</p>
+                <p>Total Facts: 2500</p>
+                <p>Ratelimit: 100 Requests Per Minute</p>
+                <p>Format: JSON</p>
+                <p>Output Example:</p>
+                <div class="codearea">
+                    <p>{</p>
+                    <p id="data">"fact": "The strongest muscle in the body is the jaw."</p>
+                    <p>}</p>
+                </div>
+            </div>
+            <hr>
+            <div class="question">
+                <h3>/api/question</h3>
+                <p>Returns a Question from the api.</p>
+                <p>Total Questions: 499</p>
+                <p>Ratelimit: 100 Requests Per Minute</p>
+                <p>Format: JSON</p>
+                <p>Output Example:</p>
+                <div class="codearea">
+                    <p>{</p>
+                    <p id="data">"question": "If you found out you were going to die tomorrow, what would you do today?"</p>
+                    <p>}</p>
+                </div>
+            </div>
+        </div>
+        <footer>
+            <p>Made with 💙 By Atharva</p>
+        </footer>
+        <script src="static/js/index.js"></script>
+    </body>
+</html>

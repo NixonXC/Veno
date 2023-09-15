@@ -1,0 +1,684 @@
+{
+  "jokes": [
+    {
+      "id": "1",
+      "buildup": "What's the difference between a gay man and a refrigerator",
+      "punchline": "The refrigerator doesn't fart when you pull the meat out."
+    },
+    {
+      "id": "2",
+      "buildup": "What's the hardest part of a vegetable to eat",
+      "punchline": "The wheelchair."
+    },
+    {
+      "id": "3",
+      "buildup": "Why did the bicycle fall over",
+      "punchline": "Because it was two-tired."
+    },
+    {
+      "id": "4",
+      "buildup": "Why did the old man fall in the well",
+      "punchline": "Because he couldn't see that well."
+    },
+    {
+      "id": "5",
+      "buildup": "Why did the chicken cross the road",
+      "punchline": "To get to the other side... of the abortion clinic."
+    },
+    {
+      "id": "6",
+      "buildup": "Why did the little boy drop his ice cream",
+      "punchline": "He was hit by a bus."
+    },
+    {
+      "id": "7",
+      "buildup": "What's the difference between a pile of dead babies and a Lamborghini",
+      "punchline": "I don't have a Lamborghini in my garage."
+    },
+    {
+      "id": "8",
+      "buildup": "What's the difference between a black man and a bench",
+      "punchline": "A bench can support a family of four."
+    },
+    {
+      "id": "9",
+      "buildup": "What's worse than finding a worm in your apple",
+      "punchline": "Finding half a worm in your apple."
+    },
+    {
+      "id": "10",
+      "buildup": "What do you call a fake noodle",
+      "punchline": "An impasta."
+    },
+    {
+      "id": "11",
+      "buildup": "What's the difference between a baby and a bag of cocaine",
+      "punchline": "Eric Clapton wouldn't let a bag of cocaine fall out of a window."
+    },
+    {
+      "id": "12",
+      "buildup": "What's the difference between a baby and a bag of cocaine",
+      "punchline": "Eric Clapton would never let a bag of cocaine fall out of a window."
+    },
+    {
+      "id": "13",
+      "buildup": "What do you get when you cross a snowman and a vampire",
+      "punchline": "Frostbite."
+    },
+    {
+      "id": "14",
+      "buildup": "What did the boy with no hands get for Christmas",
+      "punchline": "Gloves! No, just kidding... he still hasn't unwrapped his present."
+    },
+    {
+      "id": "15",
+      "buildup": "What do you call a blonde with two brain cells",
+      "punchline": "Pregnant."
+    },
+    {
+      "id": "16",
+      "buildup": "What's the difference between a baby and an onion",
+      "punchline": "Nobody cries when you chop up a baby."
+    },
+    {
+      "id": "17",
+      "buildup": "What do you call a dog with no legs",
+      "punchline": "It doesn't matter, it's not going to come anyway."
+    },
+    {
+      "id": "18",
+      "buildup": "Why do orphans never play baseball",
+      "punchline": "They don't know where home is."
+    },
+    {
+      "id": "19",
+      "buildup": "How many Jews can you fit in a car",
+      "punchline": "2 in the front, 3 in the back, and 6 million in the ashtray."
+    },
+    {
+      "id": "20",
+      "buildup": "What's the difference between a prostitute and a drug dealer",
+      "punchline": "The prostitute can wash her crack and sell it again."
+    },
+    {
+      "id": "21",
+      "buildup": "How do you make a tissue dance",
+      "punchline": "You put a little boogey in it."
+    },
+    {
+      "id": "22",
+      "buildup": "Why did the Mexican take Xanax",
+      "punchline": "For Hispanic attacks."
+    },
+    {
+      "id": "23",
+      "buildup": "What's the difference between a mosquito and a blonde",
+      "punchline": "The mosquito stops sucking when you slap it."
+    },
+    {
+      "id": "24",
+      "buildup": "Why did the sperm cross the road",
+      "punchline": "Because I put on the wrong sock this morning."
+    },
+    {
+      "id": "25",
+      "buildup": "Why do men find it difficult to make eye contact",
+      "punchline": "Breasts don't have eyes."
+    },
+    {
+      "id": "26",
+      "buildup": "Why don't ants get sick",
+      "punchline": "They have tiny ant-bodies."
+    },
+    {
+      "id": "27",
+      "buildup": "What's the difference between a lawyer and a gigolo",
+      "punchline": "A gigolo only screws one person at a time."
+    },
+    {
+      "id": "28",
+      "buildup": "Why did Hitler commit suicide",
+      "punchline": "He got the gas bill."
+    },
+    {
+      "id": "29",
+      "buildup": "What's the difference between acne and a Catholic priest",
+      "punchline": "Acne waits until a boy is 13 to come on his face."
+    },
+    {
+      "id": "30",
+      "buildup": "Why did the chicken cross the road",
+      "punchline": "To get to the other side...of the slaughterhouse."
+    },
+    {
+      "id": "31",
+      "buildup": "Why did the chicken cross the road",
+      "punchline": "To get to the other side... of the cemetery."
+    },
+    {
+      "id": "32",
+      "buildup": "What do you call a snowman with a six-pack",
+      "punchline": "An abdominal snowman."
+    },
+    {
+      "id": "33",
+      "buildup": "Why did the leper hockey game get cancelled",
+      "punchline": "There was a face-off in the corner."
+    },
+    {
+      "id": "34",
+      "buildup": "Why did the orphan go to church",
+      "punchline": "To hear about a loving father."
+    },
+    {
+      "id": "35",
+      "buildup": "What do you call a man with no arms and no legs in the water",
+      "punchline": "Bob."
+    },
+    {
+      "id": "36",
+      "buildup": "Why did the chicken commit suicide",
+      "punchline": "To get to the other side."
+    },
+    {
+      "id": "37",
+      "buildup": "Why did the coffee file a police report",
+      "punchline": "It got mugged."
+    },
+    {
+      "id": "38",
+      "buildup": "Why don't sharks live in the jungle",
+      "punchline": "Because they can't climb trees."
+    },
+    {
+      "id": "39",
+      "buildup": "What's the difference between a dead baby and a pizza",
+      "punchline": "I don't fuck a pizza before I eat it."
+    },
+    {
+      "id": "40",
+      "buildup": "What's the difference between a Catholic priest and a zit",
+      "punchline": "A zit waits until you're at least 13 before it comes on your face."
+    },
+    {
+      "id": "41",
+      "buildup": "What's the difference between a woman and a computer",
+      "punchline": "You can punch information into a computer."
+    },
+    {
+      "id": "42",
+      "buildup": "Why did the boy bring a ladder to school",
+      "punchline": "To get to high school."
+    },
+    {
+      "id": "43",
+      "buildup": "Why did the computer go to the doctor",
+      "punchline": "Because it had a virus."
+    },
+    {
+      "id": "44",
+      "buildup": "What's the difference between a hippo and a Zippo",
+      "punchline": "One is really heavy, and the other is a little lighter."
+    },
+    {
+      "id": "45",
+      "buildup": "Why did Hitler commit suicide",
+      "punchline": "He got his gas bill."
+    },
+    {
+      "id": "46",
+      "buildup": "Why did the monkey fall out of the tree",
+      "punchline": "Because it was dead."
+    },
+    {
+      "id": "47",
+      "buildup": "What's the difference between a black man and a park bench",
+      "punchline": "The park bench can support a family."
+    },
+    {
+      "id": "48",
+      "buildup": "Why did the prostitute go to church",
+      "punchline": "To get holy water so she could make holy tea."
+    },
+    {
+      "id": "49",
+      "buildup": "Why did the plane crash",
+      "punchline": "The pilot was a loaf of bread."
+    },
+    {
+      "id": "50",
+      "buildup": "What's the difference between a dead baby and a sandwich",
+      "punchline": "I don't fuck my sandwich before I eat it."
+    },
+    {
+      "id": "51",
+      "buildup": "How many dead babies does it take to change a light bulb",
+      "punchline": "Apparently, not eight because my basement is still dark."
+    },
+    {
+      "id": "52",
+      "buildup": "What's the difference between a well-dressed man on a unicycle and a poorly dressed man on a bicycle",
+      "punchline": "Attire."
+    },
+    {
+      "id": "53",
+      "buildup": "What's the difference between a school and a terrorist training camp",
+      "punchline": "Don't ask me, I just fly the drone."
+    },
+    {
+      "id": "54",
+      "buildup": "Why did the blind man fall into the well",
+      "punchline": "He couldn't see that well."
+    },
+    {
+      "id": "55",
+      "buildup": "What's the difference between a Ferrari and a pile of dead hookers",
+      "punchline": "I don't have a Ferrari in my garage."
+    },
+    {
+      "id": "56",
+      "buildup": "What's the difference between a Catholic priest and a zit",
+      "punchline": "At least a zit waits until you're a teenager before it comes on your face."
+    },
+    {
+      "id": "57",
+      "buildup": "What do you call a man with no arms and no legs in front of a door",
+      "punchline": "Matt."
+    },
+    {
+      "id": "58",
+      "buildup": "Why did the blonde get fired from the M&M factory",
+      "punchline": "She kept throwing away all the W's."
+    },
+    {
+      "id": "59",
+      "buildup": "Why did the boy throw butter out of the window",
+      "punchline": "He wanted to see a butterfly."
+    },
+    {
+      "id": "60",
+      "buildup": "Why did the man with no legs go to the art museum",
+      "punchline": "To see the Vincent van Gogh."
+    },
+    {
+      "id": "61",
+      "buildup": "What's the difference between a lawyer and a prostitute",
+      "punchline": "A prostitute stops screwing you when you're dead."
+    },
+    {
+      "id": "62",
+      "buildup": "Why did the terrorist cross the road",
+      "punchline": "To get to the other side of the checkpoint."
+    },
+    {
+      "id": "63",
+      "buildup": "What do you call a black man on the moon",
+      "punchline": "An astronaut, you racist."
+    },
+    {
+      "id": "65",
+      "buildup": "What do you call an IT teacher who touches his students",
+      "punchline": "A PDF file."
+    },
+    {
+      "id": "66",
+      "buildup": "How do you know when a joke is a dad joke",
+      "punchline": "When the punchline is apparent."
+    },
+    {
+      "id": "67",
+      "buildup": "Why did the deaf guy get fired from his job",
+      "punchline": "He couldn't hear his boss's sexual harassment."
+    },
+    {
+      "id": "68",
+      "buildup": "Why did the chicken go to the s\u00c3\u00a9ance",
+      "punchline": "To talk to the other side."
+    },
+    {
+      "id": "69",
+      "buildup": "What's the difference between a nun in church and a nun in the bath",
+      "punchline": "The location of the cucumber."
+    },
+    {
+      "id": "70",
+      "buildup": "What do you call a cheap circumcision",
+      "punchline": "A rip-off."
+    },
+    {
+      "id": "71",
+      "buildup": "What's the difference between a priest and acne",
+      "punchline": "Acne waits until a boy is 12 to come on his face."
+    },
+    {
+      "id": "72",
+      "buildup": "Why do we tell actors to \"break a leg",
+      "punchline": "\" Because every play has a cast."
+    },
+    {
+      "id": "73",
+      "buildup": "Why did Princess Diana cross the road",
+      "punchline": "Because she wasn't wearing a seatbelt."
+    },
+    {
+      "id": "74",
+      "buildup": "Did you hear about the kidnapping at the playground",
+      "punchline": "He woke up."
+    },
+    {
+      "id": "75",
+      "buildup": "Why did the girl fall off the swing",
+      "punchline": "She had no arms."
+    },
+    {
+      "id": "76",
+      "buildup": "What's the difference between a snowman and a snowwoman",
+      "punchline": "Snowballs."
+    },
+    {
+      "id": "77",
+      "buildup": "Why don't skeletons fight each other",
+      "punchline": "They don't have the guts."
+    },
+    {
+      "id": "78",
+      "buildup": "Why did the boy with no arms and no legs get in the pool",
+      "punchline": "He wanted to feel like a fish."
+    },
+    {
+      "id": "79",
+      "buildup": "What's the difference between a blonde and a washing machine",
+      "punchline": "You can dump your load in a washing machine and it won't follow you around for a week."
+    },
+    {
+      "id": "80",
+      "buildup": "How many tickles does it take to make an octopus laugh",
+      "punchline": "Ten-tickles."
+    },
+    {
+      "id": "81",
+      "buildup": "What do you call a man with no arms and no legs on your doorstep",
+      "punchline": "Matt."
+    },
+    {
+      "id": "82",
+      "buildup": "Why did the hipster burn his tongue",
+      "punchline": "He drank his coffee before it was cool."
+    },
+    {
+      "id": "83",
+      "buildup": "Why did the girl fall off the swing",
+      "punchline": "Because she had no arms."
+    },
+    {
+      "id": "84",
+      "buildup": "Why did the gay guy get a job at the sperm bank",
+      "punchline": "He wanted to put his love into action."
+    },
+    {
+      "id": "85",
+      "buildup": "Why was the guitar teacher arrested",
+      "punchline": "For fingering A minor."
+    },
+    {
+      "id": "86",
+      "buildup": "How many babies does it take to paint a wall",
+      "punchline": "Depends on how hard you throw them."
+    },
+    {
+      "id": "87",
+      "buildup": "What's the difference between a woman and a computer",
+      "punchline": "You only have to punch information into a computer once."
+    },
+    {
+      "id": "88",
+      "buildup": "What's the difference between a nun and a woman in a bathtub",
+      "punchline": "One has hope in her soul, the other has soap in her hole."
+    },
+    {
+      "id": "89",
+      "buildup": "What's the difference between a blonde and a mosquito",
+      "punchline": "A mosquito stops sucking when you smack it."
+    },
+    {
+      "id": "90",
+      "buildup": "What do you call a priest that becomes a lawyer",
+      "punchline": "A father in law."
+    },
+    {
+      "id": "92",
+      "buildup": "Why did the chicken cross the playground",
+      "punchline": "To get to the other slide."
+    },
+    {
+      "id": "93",
+      "buildup": "What do you get when you cross a snowman and a shark",
+      "punchline": "Frostbite."
+    },
+    {
+      "id": "94",
+      "buildup": "Why do Jewish men die before their wives",
+      "punchline": "They want to."
+    },
+    {
+      "id": "96",
+      "buildup": "What do you call a camel with three humps",
+      "punchline": "Pregnant."
+    },
+    {
+      "id": "97",
+      "buildup": "Why did the man with no ears go to the doctor",
+      "punchline": "He couldn't hear himself fart."
+    },
+    {
+      "id": "98",
+      "buildup": "Why did the boy drop his ice cream",
+      "punchline": "He was hit by a truck."
+    },
+    {
+      "id": "99",
+      "buildup": "What's the difference between acne and a Catholic priest",
+      "punchline": "Acne waits until you're at least 13 to come on your face."
+    },
+    {
+      "id": "100",
+      "buildup": "Why did the chicken go to the seance",
+      "punchline": "To talk to Colonel Sanders."
+    },
+    {
+      "id": "101",
+      "buildup": "Why did the scarecrow win an award",
+      "punchline": "Because he was outstanding in his field."
+    },
+    {
+      "id": "102",
+      "buildup": "What's the difference between a gay guy and a refrigerator",
+      "punchline": "The refrigerator doesn't fart when you pull your meat out."
+    },
+    {
+      "id": "103",
+      "buildup": "What did the grape say when it got stepped on",
+      "punchline": "Nothing, it just let out a little wine."
+    },
+    {
+      "id": "104",
+      "buildup": "Why did the little girl fall off the swing",
+      "punchline": "Because she had no arms."
+    },
+    {
+      "id": "105",
+      "buildup": "Why did the baby cross the playground",
+      "punchline": "To get to the other slide."
+    },
+    {
+      "id": "106",
+      "buildup": "What's the difference between a nun in church and a nun in the bath",
+      "punchline": "One has hope in her soul, the other has soap in her hole."
+    },
+    {
+      "id": "107",
+      "buildup": "Why did the baker have smelly hands",
+      "punchline": "He kneaded a poo."
+    },
+    {
+      "id": "108",
+      "buildup": "Why don't scientists trust atoms",
+      "punchline": "Because they make up everything."
+    },
+    {
+      "id": "109",
+      "buildup": "What's the difference between a Jew and a pizza",
+      "punchline": "A pizza doesn't scream in the oven."
+    },
+    {
+      "id": "110",
+      "buildup": "Why don't oysters give to charity",
+      "punchline": "They're shellfish."
+    },
+    {
+      "id": "111",
+      "buildup": "What's the difference between a hooker and a drug dealer",
+      "punchline": "A hooker can wash her crack and sell it again."
+    },
+    {
+      "id": "112",
+      "buildup": "What's the difference between a priest and acne",
+      "punchline": "Acne usually comes on a boy's face after he turns 13."
+    },
+    {
+      "id": "113",
+      "buildup": "Why did the tomato turn red",
+      "punchline": "Because it saw the salad dressing."
+    },
+    {
+      "id": "114",
+      "buildup": "What's the difference between a coffin and a condom",
+      "punchline": "One you go in, the other you come in."
+    },
+    {
+      "id": "115",
+      "buildup": "What's the difference between a Taliban outpost and a Pakistani elementary school",
+      "punchline": "I don't know, I just fly the drone."
+    },
+    {
+      "id": "116",
+      "buildup": "What's the difference between a joke and a rhetorical question",
+      "punchline": "You expect a punchline from a joke."
+    },
+    {
+      "id": "117",
+      "buildup": "What's the difference between a tire and 365 used condoms",
+      "punchline": "One's a Goodyear, the other's a great year."
+    },
+    {
+      "id": "118",
+      "buildup": "Why did the blind man fall into the well",
+      "punchline": "Because he couldn't see that well."
+    },
+    {
+      "id": "119",
+      "buildup": "Why did the cannibal break up with his girlfriend",
+      "punchline": "She didn't suit his taste."
+    },
+    {
+      "id": "120",
+      "buildup": "Why did the cookie go to the doctor",
+      "punchline": "It was feeling crumbly."
+    },
+    {
+      "id": "121",
+      "buildup": "What do you call a cow that just gave birth",
+      "punchline": "De-calf-inated."
+    },
+    {
+      "id": "122",
+      "buildup": "What did the boy with no hands get for Christmas",
+      "punchline": "Gloves! Nah, just kidding. He still hasn't unwrapped his present."
+    },
+    {
+      "id": "123",
+      "buildup": "What's the difference between a Jew and a boy scout",
+      "punchline": "The boy scout comes back from his camp."
+    },
+    {
+      "id": "124",
+      "buildup": "What's the difference between a poorly dressed man on a trampoline and a well-dressed man on a trampoline",
+      "punchline": "Attire."
+    },
+    {
+      "id": "125",
+      "buildup": "Why did the man with no arms fall off his bike",
+      "punchline": "Because he couldn't brake."
+    },
+    {
+      "id": "126",
+      "buildup": "What's red and bad for your teeth",
+      "punchline": "A brick."
+    },
+    {
+      "id": "127",
+      "buildup": "What's the difference between a blonde and a mosquito",
+      "punchline": "The mosquito stops sucking when you smack it."
+    },
+    {
+      "id": "128",
+      "buildup": "What's the difference between a pregnant woman and a light bulb",
+      "punchline": "You can unscrew a light bulb."
+    },
+    {
+      "id": "129",
+      "buildup": "Why was the math book sad",
+      "punchline": "Because it had too many problems."
+    },
+    {
+      "id": "130",
+      "buildup": "What do you call an epileptic in a vegetable garden",
+      "punchline": "Seizure salad."
+    },
+    {
+      "id": "131",
+      "buildup": "Why don't orphans play baseball",
+      "punchline": "They don't know where home is."
+    },
+    {
+      "id": "132",
+      "buildup": "Why did the boy fall off the swing",
+      "punchline": "He had no legs."
+    },
+    {
+      "id": "133",
+      "buildup": "Why don't blind people skydive",
+      "punchline": "Because it scares the shit out of their dogs."
+    },
+    {
+      "id": "134",
+      "buildup": "Why did the blonde bring a ladder to the bar",
+      "punchline": "She heard the drinks were on the house."
+    },
+    {
+      "id": "135",
+      "buildup": "What do you call an alligator in a vest",
+      "punchline": "An investigator."
+    },
+    {
+      "id": "136",
+      "buildup": "Why did the boy put a sweater on his hot dog",
+      "punchline": "Because it was a chili dog."
+    },
+    {
+      "id": "137",
+      "buildup": "Why don't cannibals eat clowns",
+      "punchline": "Because they taste funny."
+    },
+    {
+      "id": "138",
+      "buildup": "What's the difference between a dead baby and a trampoline",
+      "punchline": "I take my shoes off before jumping on a trampoline."
+    },
+    {
+      "id": "139",
+      "buildup": "How do you make a plumber cry",
+      "punchline": "Kill his family."
+    }
+  ]
+}

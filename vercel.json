@@ -1,0 +1,20 @@
+{
+	"builds" : [
+		{
+			"src": "main.py",
+			"use" : "@vercel/python"
+		}
+	],
+	"routes" : [
+		{
+			"src" : "/(.*)",
+			"dest":"main.py"
+		}
+	],
+	"functions": {
+		"api/main.py": {
+			"runtime": "python3.8",
+			"maxDuration": 10
+		}
+	}
+}

@@ -1,0 +1,1079 @@
+{
+  "programjokes": [
+    {
+      "id": "1",
+      "setup": "Why do programmers prefer dark mode",
+      "punchline": "Because the light attracts bugs!"
+    },
+    {
+      "id": "2",
+      "setup": "How do you comfort a JavaScript bug",
+      "punchline": "You console it!"
+    },
+    {
+      "id": "3",
+      "setup": "Why did the programmer become a rockstar",
+      "punchline": "He wanted to make his function calls sing!"
+    },
+    {
+      "id": "4",
+      "setup": "What do you call a programmer from Finland",
+      "punchline": "Nerdic!"
+    },
+    {
+      "id": "5",
+      "setup": "How do you generate a random string",
+      "punchline": "Put a Windows user in front of Vim and tell them to exit!"
+    },
+    {
+      "id": "6",
+      "setup": "Why do programmers prefer dogs over cats",
+      "punchline": "Dogs come with fetch API!"
+    },
+    {
+      "id": "7",
+      "setup": "Why did the programmer get thrown out of school",
+      "punchline": "He was caught trying to C# into the girls' restroom!"
+    },
+    {
+      "id": "8",
+      "setup": "What's a programmer's favorite type of coffee",
+      "punchline": "Java!"
+    },
+    {
+      "id": "9",
+      "setup": "Why did the programmer wear glasses to work",
+      "punchline": "Because he couldn't C# without his specs!"
+    },
+    {
+      "id": "10",
+      "setup": "Why was the JavaScript developer sad",
+      "punchline": "Because he didn't Node how to Express himself!"
+    },
+    {
+      "id": "11",
+      "setup": "Why do programmers prefer gardening",
+      "punchline": "Because they love to plant bugs!"
+    },
+    {
+      "id": "12",
+      "setup": "Why don't programmers like nature",
+      "punchline": "It has too many bugs!"
+    },
+    {
+      "id": "13",
+      "setup": "What's the most used language in programming",
+      "punchline": "Profanity!"
+    },
+    {
+      "id": "14",
+      "setup": "Why did the programmer always carry a screwdriver",
+      "punchline": "To open Windows!"
+    },
+    {
+      "id": "15",
+      "setup": "Why did the programmer quit his job",
+      "punchline": "Because he couldn't find a solution and it became a pane!"
+    },
+    {
+      "id": "16",
+      "setup": "Why did the programmer go broke",
+      "punchline": "Because he lost his cache!"
+    },
+    {
+      "id": "17",
+      "setup": "How does a programmer propose to their partner",
+      "punchline": "With a Boolean ring!"
+    },
+    {
+      "id": "18",
+      "setup": "Why did the programmer bring a ladder to the bar",
+      "punchline": "To reach the top shelf!"
+    },
+    {
+      "id": "19",
+      "setup": "What's a programmer's favorite song",
+      "punchline": "\"Another Byte the Dust\"!"
+    },
+    {
+      "id": "20",
+      "setup": "Why don't programmers like nature walks",
+      "punchline": "They prefer high-level walks!"
+    },
+    {
+      "id": "21",
+      "setup": "What's a programmer's favorite exercise",
+      "punchline": "SQL-ups!"
+    },
+    {
+      "id": "22",
+      "setup": "Why did the programmer get in trouble with their boss",
+      "punchline": "They forgot to commit to the relationship!"
+    },
+    {
+      "id": "23",
+      "setup": "How does a programmer count sheep? 0, 1, 10, 11, 100",
+      "punchline": ""
+    },
+    {
+      "id": "24",
+      "setup": "What do you call a programming language that's full of secret agents",
+      "punchline": "A classified language!"
+    },
+    {
+      "id": "25",
+      "setup": "Why did the programmer get kicked out of the chemistry lab",
+      "punchline": "They couldn't resist mixing Java and Python!"
+    },
+    {
+      "id": "26",
+      "setup": "Why did the programmer bring a ladder to the coffee shop",
+      "punchline": "To reach the Java!"
+    },
+    {
+      "id": "27",
+      "setup": "How do you make a programmer happy",
+      "punchline": "Send them a PDF file with no errors!"
+    },
+    {
+      "id": "28",
+      "setup": "What did the computer say to the programmer on Valentine's Day",
+      "punchline": "You auto-complete me!"
+    },
+    {
+      "id": "29",
+      "setup": "Why did the programmer put their money in the freezer",
+      "punchline": "They wanted cold hard cache!"
+    },
+    {
+      "id": "30",
+      "setup": "What do you call a bear without teeth",
+      "punchline": "A NULL bear!"
+    },
+    {
+      "id": "31",
+      "setup": "How do you make a computer laugh",
+      "punchline": "You give it a byte of its favorite data!"
+    },
+    {
+      "id": "32",
+      "setup": "Why was the programmer cold",
+      "punchline": "They left their Windows open!"
+    },
+    {
+      "id": "33",
+      "setup": "How does a computer get drunk",
+      "punchline": "It takes screenshots!"
+    },
+    {
+      "id": "34",
+      "setup": "Why did the programmer get a ticket at the zoo",
+      "punchline": "They were caught using Python to steal the pandas!"
+    },
+    {
+      "id": "35",
+      "setup": "What did one programmer say to another during lunch",
+      "punchline": "\"Let's break bread and debug together!\""
+    },
+    {
+      "id": "36",
+      "setup": "Why did the computer go to art school",
+      "punchline": "It wanted to become a master of pixelation!"
+    },
+    {
+      "id": "37",
+      "setup": "What do you call a group of musical programmers",
+      "punchline": "An array of strings!"
+    },
+    {
+      "id": "38",
+      "setup": "Why don't programmers like nature photography",
+      "punchline": "They prefer capturing the beauty of code snapshots!"
+    },
+    {
+      "id": "39",
+      "setup": "How do you comfort a sad database",
+      "punchline": "You give it some SQL-ace!"
+    },
+    {
+      "id": "40",
+      "setup": "Why did the HTML file go to jail",
+      "punchline": "It had too many tags!"
+    },
+    {
+      "id": "41",
+      "setup": "Why did the developer go broke",
+      "punchline": "They kept spending their money on debuggers!"
+    },
+    {
+      "id": "42",
+      "setup": "How do you catch a squirrel in the digital world",
+      "punchline": "With a trap-net!"
+    },
+    {
+      "id": "43",
+      "setup": "Why did the programmer take up gardening",
+      "punchline": "They wanted to learn how to sow-seeds in HTML!"
+    },
+    {
+      "id": "44",
+      "setup": "What did the Java code say to the C++ code",
+      "punchline": "You've got class!"
+    },
+    {
+      "id": "45",
+      "setup": "How do you keep a programmer in shape",
+      "punchline": "You make them do regular expressions!"
+    },
+    {
+      "id": "46",
+      "setup": "What's a programmer's favorite exercise",
+      "punchline": "Cursor jumps!"
+    },
+    {
+      "id": "47",
+      "setup": "Why did the developer bring a ladder to the theater",
+      "punchline": "They wanted to sit in the front-end row!"
+    },
+    {
+      "id": "48",
+      "setup": "How do you know if a software developer is an introvert",
+      "punchline": "They prefer arrays over social arrays!"
+    },
+    {
+      "id": "49",
+      "setup": "Why did the Python developer always bring their umbrella",
+      "punchline": "They heard it had excellent coverage!"
+    },
+    {
+      "id": "50",
+      "setup": "What do you call a coding competition between cats",
+      "punchline": "A hackathon!"
+    },
+    {
+      "id": "51",
+      "setup": "Why did the programmer start a bakery",
+      "punchline": "They wanted to make a lot of dough!"
+    },
+    {
+      "id": "52",
+      "setup": "How do you recognize an extroverted programmer",
+      "punchline": "They always look at your shoes instead of their own!"
+    },
+    {
+      "id": "53",
+      "setup": "Why did the JavaScript framework go broke",
+      "punchline": "It couldn't handle the constant updates!"
+    },
+    {
+      "id": "54",
+      "setup": "What's a computer's favorite type of music",
+      "punchline": "WAV files!"
+    },
+    {
+      "id": "55",
+      "setup": "How does a programmer like their coffee",
+      "punchline": "Java-fied and perfectly brewed!"
+    },
+    {
+      "id": "56",
+      "setup": "Why did the programmer always bring a pencil and paper to the restaurant",
+      "punchline": "They preferred to dine in binary!"
+    },
+    {
+      "id": "57",
+      "setup": "What's a programmer's favorite type of car",
+      "punchline": "A RAM!"
+    },
+    {
+      "id": "58",
+      "setup": "How does a computer flirt",
+      "punchline": "It sends bytes of love!"
+    },
+    {
+      "id": "59",
+      "setup": "Why did the programmer get kicked out of math class",
+      "punchline": "They were caught trying to convert a decimal into a hexadecimal!"
+    },
+    {
+      "id": "60",
+      "setup": "Why did the developer go broke",
+      "punchline": "They kept spending their money on bitwise operations!"
+    },
+    {
+      "id": "61",
+      "setup": "How do you make a developer happy",
+      "punchline": "You give them root access!"
+    },
+    {
+      "id": "62",
+      "setup": "Why did the programmer bring a ladder to the party",
+      "punchline": "They wanted to reach the highest stack frame!"
+    },
+    {
+      "id": "63",
+      "setup": "What's a programmer's favorite fruit",
+      "punchline": "Blueberries!"
+    },
+    {
+      "id": "64",
+      "setup": "Why did the programmer go on vacation to the Caribbean",
+      "punchline": "They wanted to soak up some Java!"
+    },
+    {
+      "id": "65",
+      "setup": "What's a computer's favorite dance move",
+      "punchline": "The algorithm!"
+    },
+    {
+      "id": "66",
+      "setup": "Why did the developer start a band",
+      "punchline": "They wanted to perform exceptional loops!"
+    },
+    {
+      "id": "67",
+      "setup": "What's a programmer's favorite kind of shoes",
+      "punchline": "Sneakers!"
+    },
+    {
+      "id": "68",
+      "setup": "How do you fix a broken website",
+      "punchline": "With a CSS-truction manual!"
+    },
+    {
+      "id": "69",
+      "setup": "Why don't programmers like cooking",
+      "punchline": "Because the oven keeps returning 404 errors!"
+    },
+    {
+      "id": "70",
+      "setup": "What's a computer's favorite instrument",
+      "punchline": "The keyboard!"
+    },
+    {
+      "id": "71",
+      "setup": "Why did the programmer wear a suit to the job interview",
+      "punchline": "They wanted to make a good impression on the Boolean!"
+    },
+    {
+      "id": "72",
+      "setup": "How do you describe a programming joke that nobody understands",
+      "punchline": "It's a NaN-sense joke!"
+    },
+    {
+      "id": "73",
+      "setup": "Why was the C++ developer so lonely",
+      "punchline": "They couldn't find a class that inherited from their heart!"
+    },
+    {
+      "id": "74",
+      "setup": "What do you call a group of musical programmers playing together",
+      "punchline": "A bandwidth!"
+    },
+    {
+      "id": "75",
+      "setup": "Why did the developer bring a shovel to the office",
+      "punchline": "They heard they needed to dig deep into the code!"
+    },
+    {
+      "id": "76",
+      "setup": "How do you recognize a computer nerd at the beach",
+      "punchline": "They're the one with the solar-powered laptop!"
+    },
+    {
+      "id": "77",
+      "setup": "What's a programmer's favorite type of music",
+      "punchline": "Heavy metalanguage!"
+    },
+    {
+      "id": "78",
+      "setup": "Why did the developer start a bike-sharing service",
+      "punchline": "They wanted to optimize their cycling algorithm!"
+    },
+    {
+      "id": "79",
+      "setup": "What do you call a haunted programming language",
+      "punchline": "A boo-lean!"
+    },
+    {
+      "id": "80",
+      "setup": "Why did the developer start a workout routine",
+      "punchline": "They wanted to exercise their rights and lefts!"
+    },
+    {
+      "id": "81",
+      "setup": "How do you catch a bug in the computer",
+      "punchline": "With a web!"
+    },
+    {
+      "id": "82",
+      "setup": "What's a computer's favorite snack",
+      "punchline": "Microchips!"
+    },
+    {
+      "id": "83",
+      "setup": "Why did the developer take a nap during work",
+      "punchline": "They wanted to dream about code optimization!"
+    },
+    {
+      "id": "84",
+      "setup": "How do you identify an SQL developer in a crowd",
+      "punchline": "They're the one who is always joining tables!"
+    },
+    {
+      "id": "85",
+      "setup": "Why did the programmer go broke investing in stocks",
+      "punchline": "They kept buying floating point numbers!"
+    },
+    {
+      "id": "86",
+      "setup": "Why did the developer go broke",
+      "punchline": "Their code didn't compile, so they couldn't make any cents!"
+    },
+    {
+      "id": "87",
+      "setup": "How do you make a developer sweat",
+      "punchline": "Turn off the air conditioning and open a window!"
+    },
+    {
+      "id": "88",
+      "setup": "What do you call a programming language that speaks French",
+      "punchline": "C'est sharp!"
+    },
+    {
+      "id": "89",
+      "setup": "Why did the programmer bring a ladder to the library",
+      "punchline": "They wanted to reach the higher stacks!"
+    },
+    {
+      "id": "90",
+      "setup": "What's a programmer's favorite type of footwear",
+      "punchline": "Loafers, because they don't tie the code in knots!"
+    },
+    {
+      "id": "91",
+      "setup": "Why did the developer refuse to play cards",
+      "punchline": "They heard the deck was full of bugs!"
+    },
+    {
+      "id": "92",
+      "setup": "How does a programmer propose to their partner",
+      "punchline": "\"Will you be my significant bit?\""
+    },
+    {
+      "id": "93",
+      "setup": "Why do programmers prefer to work at night",
+      "punchline": "Less Java traffic!"
+    },
+    {
+      "id": "94",
+      "setup": "What do you get when you cross a computer and a life coach",
+      "punchline": "A motherboard!"
+    },
+    {
+      "id": "95",
+      "setup": "Why did the programmer always carry a USB stick",
+      "punchline": "In case they needed to save the world!"
+    },
+    {
+      "id": "96",
+      "setup": "How does a programmer drown their sorrows",
+      "punchline": "In a sea of Java!"
+    },
+    {
+      "id": "97",
+      "setup": "What do you call a coding space that's haunted",
+      "punchline": "A spooky variable!"
+    },
+    {
+      "id": "98",
+      "setup": "Why don't programmers like gardening",
+      "punchline": "They prefer to work in a more abstract environment!"
+    },
+    {
+      "id": "99",
+      "setup": "What did the programmer say to their computer",
+      "punchline": "\"My code works fine, you must be the problem!\""
+    },
+    {
+      "id": "100",
+      "setup": "Why did the developer go to therapy",
+      "punchline": "They had too many unresolved dependencies!"
+    },
+    {
+      "id": "101",
+      "setup": "How many programmers does it take to change a light bulb",
+      "punchline": "None, that's a hardware issue!"
+    },
+    {
+      "id": "102",
+      "setup": "Why did the developer get arrested for counterfeiting",
+      "punchline": "They were making too many false classes!"
+    },
+    {
+      "id": "103",
+      "setup": "What's a programmer's favorite type of clothing",
+      "punchline": "A string vest!"
+    },
+    {
+      "id": "104",
+      "setup": "How do you know a web developer is married",
+      "punchline": "They have a spouse tag in their HTML!"
+    },
+    {
+      "id": "105",
+      "setup": "Why did the programmer always carry a spoon",
+      "punchline": "In case they needed to fork their code!"
+    },
+    {
+      "id": "106",
+      "setup": "What's a computer's favorite type of music",
+      "punchline": "Disk-o!"
+    },
+    {
+      "id": "107",
+      "setup": "How does a programmer go grocery shopping",
+      "punchline": "They use cart-esian coordinates!"
+    },
+    {
+      "id": "108",
+      "setup": "Why did the developer bring a ladder to the football game",
+      "punchline": "They heard the quarterbacks were throwing pointers!"
+    },
+    {
+      "id": "109",
+      "setup": "What did the binary tree say to the AVL tree",
+      "punchline": "\"You're so balanced!\""
+    },
+    {
+      "id": "110",
+      "setup": "Why did the programmer become a stand-up comedian",
+      "punchline": "They had a talent for cracking code!"
+    },
+    {
+      "id": "111",
+      "setup": "How does a developer apologize",
+      "punchline": "They say, \"I'm sorry for my array of mistakes!\""
+    },
+    {
+      "id": "112",
+      "setup": "What's a programmer's favorite kind of tree",
+      "punchline": "Parse-ley!"
+    },
+    {
+      "id": "113",
+      "setup": "Why did the developer refuse to play hide-and-seek",
+      "punchline": "They didn't want to inherit any hidden classes!"
+    },
+    {
+      "id": "114",
+      "setup": "What's a computer's favorite snack",
+      "punchline": "Chips, of course!"
+    },
+    {
+      "id": "115",
+      "setup": "Why did the programmer take up fishing",
+      "punchline": "They wanted to catch some bugs!"
+    },
+    {
+      "id": "116",
+      "setup": "How does a computer clean its room",
+      "punchline": "It uses a disk scrubber!"
+    },
+    {
+      "id": "117",
+      "setup": "What did one HTML tag say to the other",
+      "punchline": "\"We make a great pair!\""
+    },
+    {
+      "id": "118",
+      "setup": "Why don't programmers like to get their hands dirty",
+      "punchline": "They prefer to use higher-level abstractions!"
+    },
+    {
+      "id": "119",
+      "setup": "How did the developer announce their engagement",
+      "punchline": "They sent out a JSON message: {\"status\": \"engaged\"}"
+    },
+    {
+      "id": "120",
+      "setup": "Why did the developer bring a ladder to the arcade",
+      "punchline": "They wanted to reach the high scores!"
+    },
+    {
+      "id": "121",
+      "setup": "How do you spot a happy programmer",
+      "punchline": "They have good function-key-tioning!"
+    },
+    {
+      "id": "122",
+      "setup": "What's a programmer's favorite dance move",
+      "punchline": "The code shuffle!"
+    },
+    {
+      "id": "123",
+      "setup": "Why did the developer take a nap on the keyboard",
+      "punchline": "They wanted to catch up on some rest APIs!"
+    },
+    {
+      "id": "124",
+      "setup": "What do you call a coding language that tells jokes",
+      "punchline": "PUNython!"
+    },
+    {
+      "id": "125",
+      "setup": "How does a programmer make a phone call",
+      "punchline": "They use their cell-phones!"
+    },
+    {
+      "id": "126",
+      "setup": "Why did the developer bring a saw to the software meeting",
+      "punchline": "They heard it was time to cut through the bloat!"
+    },
+    {
+      "id": "127",
+      "setup": "What do you call a programming language that's full of superheroes",
+      "punchline": "A dynamic web!"
+    },
+    {
+      "id": "128",
+      "setup": "How do you catch a bug in the act",
+      "punchline": "You set up a debug trap!"
+    },
+    {
+      "id": "129",
+      "setup": "Why did the developer get kicked out of the zoo",
+      "punchline": "They released the Python and it caused a snake-overflow error!"
+    },
+    {
+      "id": "130",
+      "setup": "What's a computer's favorite type of music",
+      "punchline": "Heavy disk!"
+    },
+    {
+      "id": "131",
+      "setup": "Why did the developer always carry a spare tire",
+      "punchline": "In case they got a flat stack!"
+    },
+    {
+      "id": "132",
+      "setup": "How does a programmer propose",
+      "punchline": "They get down on one knee and say, \"You're my CSS file; together we make a perfect style!\""
+    },
+    {
+      "id": "133",
+      "setup": "Why did the developer bring a magnifying glass to work",
+      "punchline": "They wanted to debug the small print!"
+    },
+    {
+      "id": "134",
+      "setup": "How do you know if a web developer is an introvert",
+      "punchline": "They prefer to stay inside the HTML tags!"
+    },
+    {
+      "id": "135",
+      "setup": "Why did the programmer become a chef",
+      "punchline": "Because they excel at coding in the kitchen!"
+    },
+    {
+      "id": "136",
+      "setup": "How do you comfort a JavaScript bug",
+      "punchline": "You console it, but it might just return \"undefined\"!"
+    },
+    {
+      "id": "137",
+      "setup": "What's a programmer's favorite type of tree",
+      "punchline": "A binary tree—always branching out!"
+    },
+    {
+      "id": "138",
+      "setup": "How did the programmer die in the shower",
+      "punchline": "They read the shampoo bottle instructions: lather, rinse, and repeat."
+    },
+    {
+      "id": "139",
+      "setup": "Why do programmers prefer dark mode",
+      "punchline": "Because light attracts bugs, but darkness hides them."
+    },
+    {
+      "id": "140",
+      "setup": "Why did the developer go broke",
+      "punchline": "They spent all their money on bitcoin mining and forgot to save."
+    },
+    {
+      "id": "141",
+      "setup": "Why did the computer go to the doctor",
+      "punchline": "It had a byte infection!"
+    },
+    {
+      "id": "142",
+      "setup": "What do you call a programmer who doesn't make mistakes",
+      "punchline": "A compiler."
+    },
+    {
+      "id": "143",
+      "setup": "How do programmers greet each other",
+      "punchline": "With a \"Hello, world!\""
+    },
+    {
+      "id": "144",
+      "setup": "Why do programmers prefer cats",
+      "punchline": "They're purr-fect for debugging—they catch all the bugs!"
+    },
+    {
+      "id": "145",
+      "setup": "What's a pirate's favorite programming language",
+      "punchline": "Rrrrrr!"
+    },
+    {
+      "id": "146",
+      "setup": "Why don't programmers like nature",
+      "punchline": "It has too many bugs and infinite loops."
+    },
+    {
+      "id": "147",
+      "setup": "What's an algorithm",
+      "punchline": "A word used by programmers when they don't want to explain their code."
+    },
+    {
+      "id": "148",
+      "setup": "Why did the developer go on a diet",
+      "punchline": "They wanted to shed some weight classes."
+    },
+    {
+      "id": "149",
+      "setup": "What's a programmer's favorite place to vacation",
+      "punchline": "The Coderibbean!"
+    },
+    {
+      "id": "150",
+      "setup": "Why do programmers always mix up Christmas and Halloween",
+      "punchline": "Because Oct 31 == Dec 25!"
+    },
+    {
+      "id": "151",
+      "setup": "Why did the programmer take the job at the bakery",
+      "punchline": "They kneaded the dough!"
+    },
+    {
+      "id": "152",
+      "setup": "How do you know if someone is a programmer? Don't worry, they'll tell you",
+      "punchline": "repeatedly."
+    },
+    {
+      "id": "153",
+      "setup": "Why don't programmers like to go outside",
+      "punchline": "The graphics are great, but the API calls are terrible."
+    },
+    {
+      "id": "154",
+      "setup": "What's a programmer's favorite type of music",
+      "punchline": "Heavy metal, of course!"
+    },
+    {
+      "id": "155",
+      "setup": "Why was the computer cold",
+      "punchline": "It left its Windows open."
+    },
+    {
+      "id": "156",
+      "setup": "What do you call a programming language that's full of errors",
+      "punchline": "Java."
+    },
+    {
+      "id": "157",
+      "setup": "Why did the developer become a lumberjack",
+      "punchline": "They wanted to work with logs on a different level."
+    },
+    {
+      "id": "158",
+      "setup": "How do you get a programmer's attention while they're deep in thought",
+      "punchline": "Say, \"I found a bug in your code!\""
+    },
+    {
+      "id": "159",
+      "setup": "Why did the programmer go broke playing poker",
+      "punchline": "They kept getting caught with a flush, but not the right kind."
+    },
+    {
+      "id": "160",
+      "setup": "How do you know if a programmer has been working out",
+      "punchline": "They can do curling with both dumbbells and brackets."
+    },
+    {
+      "id": "161",
+      "setup": "What did the computer do at lunchtime",
+      "punchline": "Had a byte to eat!"
+    },
+    {
+      "id": "162",
+      "setup": "Why do programmers prefer iOS development",
+      "punchline": "Because they don't like to Android."
+    },
+    {
+      "id": "163",
+      "setup": "How does a computer catch fish",
+      "punchline": "With its internet hook!"
+    },
+    {
+      "id": "164",
+      "setup": "Why did the programmer always carry a ladder",
+      "punchline": "To reach the top shelf in the code library!"
+    },
+    {
+      "id": "165",
+      "setup": "What's a programmer's favorite game",
+      "punchline": "Hide and seek—because there's always a bug hiding somewhere."
+    },
+    {
+      "id": "166",
+      "setup": "Why don't programmers like to play hide-and-seek",
+      "punchline": "Because they always end up finding null."
+    },
+    {
+      "id": "167",
+      "setup": "What's a programmer's favorite snack",
+      "punchline": "Microchips!"
+    },
+    {
+      "id": "168",
+      "setup": "Why was the JavaScript developer sad",
+      "punchline": "Because they didn't Node how to Express their feelings."
+    },
+    {
+      "id": "169",
+      "setup": "Why did the developer go broke investing in stocks",
+      "punchline": "They kept buying floating-point numbers."
+    },
+    {
+      "id": "170",
+      "setup": "How do you keep a programmer in the shower all day",
+      "punchline": "Give them a shampoo bottle with instructions: \"Lather, rinse, repeat.\""
+    },
+    {
+      "id": "171",
+      "setup": "Why did the programmer break up with their partner",
+      "punchline": "They didn't get their SQL!"
+    },
+    {
+      "id": "172",
+      "setup": "What do you call a coding superhero",
+      "punchline": "A function of justice!"
+    },
+    {
+      "id": "173",
+      "setup": "Why did the programmer bring a ladder to the bar",
+      "punchline": "They wanted to reach the high tables!"
+    },
+    {
+      "id": "174",
+      "setup": "How does a programmer impress others",
+      "punchline": "They upload their code to GitHub!"
+    },
+    {
+      "id": "175",
+      "setup": "Why did the developer go broke",
+      "punchline": "They spent all their money on keyboard shortcuts!"
+    },
+    {
+      "id": "176",
+      "setup": "What's a programmer's favorite kind of dance",
+      "punchline": "The lambda shuffle!"
+    },
+    {
+      "id": "177",
+      "setup": "How do you unlock a computer nerd's car",
+      "punchline": "You use a SQL injection!"
+    },
+    {
+      "id": "178",
+      "setup": "Why don't programmers like nature walks",
+      "punchline": "They prefer to stroll through the digital forest."
+    },
+    {
+      "id": "179",
+      "setup": "How does a programmer pay for lunch",
+      "punchline": "With bitcoin and binary bills!"
+    },
+    {
+      "id": "180",
+      "setup": "Why did the programmer bring a ladder to the concert",
+      "punchline": "They wanted to reach the high notes!"
+    },
+    {
+      "id": "181",
+      "setup": "What's a computer's favorite snack",
+      "punchline": "Computer chips!"
+    },
+    {
+      "id": "182",
+      "setup": "Why did the programmer get kicked out of the grocery store",
+      "punchline": "They couldn't resist the array of forbidden fruit!"
+    },
+    {
+      "id": "183",
+      "setup": "How do you catch a bug in space",
+      "punchline": "You use a space web!"
+    },
+    {
+      "id": "184",
+      "setup": "Why did the developer always carry a pen and paper",
+      "punchline": "They wanted to draw their own Java!"
+    },
+    {
+      "id": "185",
+      "setup": "What's a programmer's favorite exercise",
+      "punchline": "Squats—because they love SQL injections!"
+    },
+    {
+      "id": "186",
+      "setup": "Why did the programmer become a musician",
+      "punchline": "They wanted to compose code symphonies!"
+    },
+    {
+      "id": "187",
+      "setup": "How does a computer apologize",
+      "punchline": "It says, \"I'm sorry, I must have RAM-embered that wrong!\""
+    },
+    {
+      "id": "188",
+      "setup": "Why did the developer bring a basketball to work",
+      "punchline": "They wanted to practice their SQL slam-dunks!"
+    },
+    {
+      "id": "189",
+      "setup": "What do you call a coding language for chickens",
+      "punchline": "Scratch-en!"
+    },
+    {
+      "id": "190",
+      "setup": "How do you know if a programmer is an introvert",
+      "punchline": "They prefer interfaces over face-to-face interactions!"
+    },
+    {
+      "id": "191",
+      "setup": "Why did the programmer always carry a screwdriver",
+      "punchline": "In case they needed to fix a byte!"
+    },
+    {
+      "id": "192",
+      "setup": "What's a programmer's favorite dessert",
+      "punchline": "Hexadecimal cake—it's sweet and byte-sized!"
+    },
+    {
+      "id": "193",
+      "setup": "Why did the developer become a race car driver",
+      "punchline": "They wanted to speed up their code!"
+    },
+    {
+      "id": "194",
+      "setup": "How do programmers celebrate Halloween",
+      "punchline": "They go trick-or-treating for bytes!"
+    },
+    {
+      "id": "195",
+      "setup": "Why did the computer go to the doctor",
+      "punchline": "It had a bad case of the cookies!"
+    },
+    {
+      "id": "196",
+      "setup": "What's a programmer's favorite sport",
+      "punchline": "Cache-ing!"
+    },
+    {
+      "id": "197",
+      "setup": "Why did the developer bring a mirror to the office",
+      "punchline": "They wanted to reflect on their code!"
+    },
+    {
+      "id": "198",
+      "setup": "What do you call a programmer who can't parallelize their work",
+      "punchline": "Serial killer!"
+    },
+    {
+      "id": "199",
+      "setup": "How does a programmer brush their teeth",
+      "punchline": "With the CAPS lock on—it gives them maximum brushing power!"
+    },
+    {
+      "id": "200",
+      "setup": "Why do programmers prefer dark chocolate",
+      "punchline": "It's 70% cocoa, 30% debug."
+    },
+    {
+      "id": "201",
+      "setup": "How did the programmer die",
+      "punchline": "They didn't check for NULL pointers."
+    },
+    {
+      "id": "202",
+      "setup": "What's a programmer's favorite exercise",
+      "punchline": "Running git blame."
+    },
+    {
+      "id": "203",
+      "setup": "How do you explain the cloud to a non-technical person",
+      "punchline": "It's where all the software developers go to relax."
+    },
+    {
+      "id": "204",
+      "setup": "Why did the developer go broke",
+      "punchline": "They lost their domain in a bet."
+    },
+    {
+      "id": "205",
+      "setup": "Why did the programmer get kicked out of the gym",
+      "punchline": "They lifted too many weights (wait)!"
+    },
+    {
+      "id": "206",
+      "setup": "Why do Java developers wear glasses",
+      "punchline": "Because they can't C#."
+    },
+    {
+      "id": "207",
+      "setup": "What do you call a programmer from Finland",
+      "punchline": "Nerdic."
+    },
+    {
+      "id": "208",
+      "setup": "What do you call a programmer who doesn't curse",
+      "punchline": "A well-tempered clavier."
+    },
+    {
+      "id": "209",
+      "setup": "How do programmers party",
+      "punchline": "They byte and nibble."
+    },
+    {
+      "id": "210",
+      "setup": "Why did the programmer go broke",
+      "punchline": "Their bank account had too many float errors."
+    },
+    {
+      "id": "211",
+      "setup": "Why did the programmer get in trouble with the law",
+      "punchline": "They were hacking away at their keyboard."
+    },
+    {
+      "id": "212",
+      "setup": "What do programmers do when they are bored",
+      "punchline": "They refactor their code for fun."
+    },
+    {
+      "id": "213",
+      "setup": "Why did the developer go broke",
+      "punchline": "They invested all their money in a startup that didn't have a backend."
+    },
+    {
+      "id": "214",
+      "setup": "How do you know if a programmer is an extrovert",
+      "punchline": "They stare at other people's shoes instead of their own."
+    },
+    {
+      "id": "215",
+      "setup": "Why did the programmer always carry a USB drive",
+      "punchline": "In case they needed to save their progress in real life."
+    }
+  ]
+}

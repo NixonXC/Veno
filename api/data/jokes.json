@@ -1,0 +1,509 @@
+{
+  "jokes": [
+    {
+      "id": "1",
+      "buildup": "What did one pirate say to the other when he beat him at chess",
+      "punchline": "Checkmatey."
+    },
+    {
+      "id": "6",
+      "buildup": "I never buy anything that has Velcro with it",
+      "punchline": "it’s a total rip-off."
+    },
+    {
+      "id": "7",
+      "buildup": "I used to work at a soft drink can crushing company",
+      "punchline": "it was soda pressing."
+    },
+    {
+      "id": "9",
+      "buildup": "I was going to tell you a fighting joke",
+      "punchline": "but I forgot the punch line."
+    },
+    {
+      "id": "10",
+      "buildup": "What is the most groundbreaking invention of all time",
+      "punchline": "The shovel."
+    },
+    {
+      "id": "12",
+      "buildup": "I visited a weight loss website",
+      "punchline": "they told me I have to have cookies disabled."
+    },
+    {
+      "id": "13",
+      "buildup": "Did you hear about the famous Italian chef that recently died",
+      "punchline": "He pasta way."
+    },
+    {
+      "id": "16",
+      "buildup": "I cut my finger slicing cheese the other day",
+      "punchline": "but I think I may have grater problems than that."
+    },
+    {
+      "id": "17",
+      "buildup": "What time did you go to the dentist yesterday",
+      "punchline": "Tooth-hurty."
+    },
+    {
+      "id": "18",
+      "buildup": "What kind of music do astronauts listen to",
+      "punchline": "Neptunes."
+    },
+    {
+      "id": "20",
+      "buildup": "What is the only concert in the world that costs 45 cents",
+      "punchline": "50 Cent, featuring Nickelback."
+    },
+    {
+      "id": "23",
+      "buildup": "What do you call Santa’s little helpers",
+      "punchline": "Subordinate clauses."
+    },
+    {
+      "id": "24",
+      "buildup": "Want to hear a construction joke",
+      "punchline": "Sorry, I’m still working on it."
+    },
+    {
+      "id": "25",
+      "buildup": "What’s the difference between a hippo and a zippo",
+      "punchline": "One is extremely big and heavy, and the other is a little lighter."
+    },
+    {
+      "id": "28",
+      "buildup": "Where did Captain Hook get his hook",
+      "punchline": "From the second-hand store."
+    },
+    {
+      "id": "32",
+      "buildup": "What did the glass of wine say to the glass of beer",
+      "punchline": "Nothing.  They barley knew each other."
+    },
+    {
+      "id": "34",
+      "buildup": "Why did Shakespeare’s wife leave him",
+      "punchline": "She got sick of all the drama."
+    },
+    {
+      "id": "36",
+      "buildup": "If you want to get a job at the moisturizer factory",
+      "punchline": "you’re going to have to apply daily."
+    },
+    {
+      "id": "38",
+      "buildup": "Want to hear a joke about going to the bathroom",
+      "punchline": "Urine for a treat."
+    },
+    {
+      "id": "42",
+      "buildup": "You're American when you go into the bathroom, and you're American when you come out, but do you know what you are while you're in there",
+      "punchline": "European."
+    },
+    {
+      "id": "43",
+      "buildup": "Did you know the first French fries weren't actually cooked in France",
+      "punchline": "They were cooked in Greece."
+    },
+    {
+      "id": "44",
+      "buildup": "Want to hear a joke about a piece of paper? Never mind",
+      "punchline": "it's tearable."
+    },
+    {
+      "id": "46",
+      "buildup": "If you see a robbery at an Apple Store what re you",
+      "punchline": "An iWitness?"
+    },
+    {
+      "id": "48",
+      "buildup": "What’s Forrest Gump’s password",
+      "punchline": "1forrest1"
+    },
+    {
+      "id": "49",
+      "buildup": "Why did the Clydesdale give the pony a glass of water",
+      "punchline": "Because he was a little horse!"
+    },
+    {
+      "id": "50",
+      "buildup": "CASHIER  \"Would you like the milk in a bag, sir",
+      "punchline": "\"  DAD  \"No, just leave it in the carton!’”"
+    },
+    {
+      "id": "51",
+      "buildup": "Did you hear about the guy who invented Lifesavers",
+      "punchline": "They say he made a mint."
+    },
+    {
+      "id": "53",
+      "buildup": "Why do chicken coops only have two doors",
+      "punchline": "Because if they had four, they would be chicken sedans!"
+    },
+    {
+      "id": "54",
+      "buildup": "How do you make a Kleenex dance",
+      "punchline": "Put a little boogie in it!"
+    },
+    {
+      "id": "55",
+      "buildup": "A termite walks into a bar and asks \"Is the bar tender here",
+      "punchline": "\""
+    },
+    {
+      "id": "56",
+      "buildup": "Why did the invisible man turn down the job offer",
+      "punchline": "He couldn't see himself doing it."
+    },
+    {
+      "id": "58",
+      "buildup": "A woman is on trial for beating her husband to death with his guitar collection. Judge says, \"First offender",
+      "punchline": "\"  She says, \"No, first a Gibson! Then a Fender!”"
+    },
+    {
+      "id": "59",
+      "buildup": "How do you make holy water",
+      "punchline": "You boil the hell out of it."
+    },
+    {
+      "id": "61",
+      "buildup": "Did you hear about the circus fire",
+      "punchline": "It was in tents!"
+    },
+    {
+      "id": "63",
+      "buildup": "How many tickles does it take to make an octopus laugh",
+      "punchline": "Ten-tickles."
+    },
+    {
+      "id": "65",
+      "buildup": "Why did the cow in the pasture get promoted at work",
+      "punchline": "Because he is OUT-STANDING in his field!"
+    },
+    {
+      "id": "66",
+      "buildup": "What do prisoners use to call each other",
+      "punchline": "Cell phones."
+    },
+    {
+      "id": "67",
+      "buildup": "Why couldn't the bike standup by itself",
+      "punchline": "It was two tired."
+    },
+    {
+      "id": "68",
+      "buildup": "Who was the fattest knight at King Arthur’s round table",
+      "punchline": "Sir Cumference."
+    },
+    {
+      "id": "69",
+      "buildup": "Did you see they made round bails of hay illegal in Wisconsin",
+      "punchline": "It’s because the cows weren’t getting a square meal."
+    },
+    {
+      "id": "70",
+      "buildup": "You know what the loudest pet you can get is",
+      "punchline": "A trumpet."
+    },
+    {
+      "id": "71",
+      "buildup": "What do you get when you cross a snowman with a vampire",
+      "punchline": "Frostbite."
+    },
+    {
+      "id": "72",
+      "buildup": "What do you call a deer with no eyes",
+      "punchline": "No idea!"
+    },
+    {
+      "id": "73",
+      "buildup": "Can February March",
+      "punchline": "No, but April May!"
+    },
+    {
+      "id": "74",
+      "buildup": "What do you call a lonely cheese",
+      "punchline": "Provolone."
+    },
+    {
+      "id": "75",
+      "buildup": "Why can't you hear a pterodactyl go to the bathroom",
+      "punchline": "Because the pee is silent."
+    },
+    {
+      "id": "76",
+      "buildup": "What did the buffalo say to his son when he dropped him off at school",
+      "punchline": "Bison."
+    },
+    {
+      "id": "77",
+      "buildup": "What do you call someone with no body and no nose",
+      "punchline": "Nobody knows."
+    },
+    {
+      "id": "78",
+      "buildup": "You heard of that new band 1023MB",
+      "punchline": "They're good but they haven't got a gig yet."
+    },
+    {
+      "id": "79",
+      "buildup": "Why did the crab never share",
+      "punchline": "Because he's shellfish."
+    },
+    {
+      "id": "80",
+      "buildup": "How do you get a squirrel to like you",
+      "punchline": "Act like a nut."
+    },
+    {
+      "id": "81",
+      "buildup": "Why don't eggs tell jokes",
+      "punchline": "They'd crack each other up."
+    },
+    {
+      "id": "82",
+      "buildup": "Why can't a nose be 12 inches long",
+      "punchline": "Because then it would be a foot."
+    },
+    {
+      "id": "83",
+      "buildup": "Did you hear the rumor about butter",
+      "punchline": "Well, I'm not going to spread it!"
+    },
+    {
+      "id": "85",
+      "buildup": "I used to hate facial hair",
+      "punchline": "but then it grew on me."
+    },
+    {
+      "id": "89",
+      "buildup": "What do you call an elephant that doesn't matter",
+      "punchline": "An irrelephant."
+    },
+    {
+      "id": "90",
+      "buildup": "What do you get from a pampered cow",
+      "punchline": "Spoiled milk."
+    },
+    {
+      "id": "92",
+      "buildup": "How do lawyers say goodbye",
+      "punchline": "Sue ya later!"
+    },
+    {
+      "id": "93",
+      "buildup": "Wanna hear a joke about paper",
+      "punchline": "Never mind—it's tearable."
+    },
+    {
+      "id": "94",
+      "buildup": "What's the best way to watch a fly fishing tournament",
+      "punchline": "Live stream."
+    },
+    {
+      "id": "96",
+      "buildup": "When does a joke become a dad joke",
+      "punchline": "When it becomes apparent."
+    },
+    {
+      "id": "97",
+      "buildup": "What’s an astronaut’s favorite part of a computer",
+      "punchline": "The space bar."
+    },
+    {
+      "id": "98",
+      "buildup": "What did the shy pebble wish for",
+      "punchline": "That she was a little boulder."
+    },
+    {
+      "id": "100",
+      "buildup": "Did you hear about the guy whose whole left side was cut off",
+      "punchline": "He's all right now."
+    },
+    {
+      "id": "101",
+      "buildup": "Why didn’t the skeleton cross the road",
+      "punchline": "Because he had no guts."
+    },
+    {
+      "id": "102",
+      "buildup": "What did one nut say as he chased another nut",
+      "punchline": "I'm a cashew!"
+    },
+    {
+      "id": "103",
+      "buildup": "Chances are if you' ve seen one shopping center",
+      "punchline": "you've seen a mall."
+    },
+    {
+      "id": "104",
+      "buildup": "I knew I shouldn't steal a mixer from work",
+      "punchline": "but it was a whisk I was willing to take."
+    },
+    {
+      "id": "105",
+      "buildup": "How come the stadium got hot after the game",
+      "punchline": "Because all of the fans left."
+    },
+    {
+      "id": "106",
+      "buildup": "Why was it called the dark ages",
+      "punchline": "Because of all the knights."
+    },
+    {
+      "id": "107",
+      "buildup": "Why did the tomato blush",
+      "punchline": "Because it saw the salad dressing."
+    },
+    {
+      "id": "108",
+      "buildup": "Did you hear the joke about the wandering nun",
+      "punchline": "She was a roman catholic."
+    },
+    {
+      "id": "109",
+      "buildup": "What creature is smarter than a talking parrot",
+      "punchline": "A spelling bee."
+    },
+    {
+      "id": "110",
+      "buildup": "I'll tell you what often gets over looked",
+      "punchline": "garden fences."
+    },
+    {
+      "id": "111",
+      "buildup": "Why did the kid cross the playground",
+      "punchline": "To get to the other slide."
+    },
+    {
+      "id": "112",
+      "buildup": "Why do birds fly south for the winter",
+      "punchline": "Because it's too far to walk."
+    },
+    {
+      "id": "113",
+      "buildup": "What is a centipedes's favorite Beatle song?   I want to hold your hand, hand, hand, hand",
+      "punchline": ""
+    },
+    {
+      "id": "115",
+      "buildup": "To be Frank",
+      "punchline": "I'd have to change my name."
+    },
+    {
+      "id": "117",
+      "buildup": "Why does a Moon-rock taste better than an Earth-rock",
+      "punchline": "Because it's a little meteor."
+    },
+    {
+      "id": "118",
+      "buildup": "How many South Americans does it take to change a lightbulb",
+      "punchline": "A Brazilian"
+    },
+    {
+      "id": "121",
+      "buildup": "What is the difference between ignorance and apathy",
+      "punchline": "I don't know and I don't care."
+    },
+    {
+      "id": "122",
+      "buildup": "I went to a Foo Fighters Concert once",
+      "punchline": "It was Everlong..."
+    },
+    {
+      "id": "124",
+      "buildup": "What do you get hanging from Apple trees",
+      "punchline": "Sore arms."
+    },
+    {
+      "id": "127",
+      "buildup": "What did Romans use to cut pizza before the rolling cutter was invented",
+      "punchline": "Lil Caesars"
+    },
+    {
+      "id": "130",
+      "buildup": "Why are oranges the smartest fruit",
+      "punchline": "Because they are made to concentrate."
+    },
+    {
+      "id": "131",
+      "buildup": "What did the beaver say to the tree",
+      "punchline": "It's been nice gnawing you."
+    },
+    {
+      "id": "132",
+      "buildup": "How do you fix a damaged jack-o-lantern",
+      "punchline": "You use a pumpkin patch."
+    },
+    {
+      "id": "133",
+      "buildup": "What did the late tomato say to the early tomato",
+      "punchline": "I’ll ketch up"
+    },
+    {
+      "id": "134",
+      "buildup": "I have kleptomania",
+      "punchline": "when it gets bad, I take something for it."
+    },
+    {
+      "id": "135",
+      "buildup": "I used to be addicted to soap",
+      "punchline": "but I'm clean now."
+    },
+    {
+      "id": "136",
+      "buildup": "When is a door not a door",
+      "punchline": "When it's ajar."
+    },
+    {
+      "id": "137",
+      "buildup": "I made a belt out of watches once",
+      "punchline": "It was a waist of time."
+    },
+    {
+      "id": "139",
+      "buildup": "How do you find Will Smith in the snow",
+      "punchline": "Look for fresh prints."
+    },
+    {
+      "id": "141",
+      "buildup": "Why do trees seem suspicious on sunny days",
+      "punchline": "Dunno, they're just a bit shady."
+    },
+    {
+      "id": "143",
+      "buildup": "What kind of music do mummy's like",
+      "punchline": "Rap"
+    },
+    {
+      "id": "145",
+      "buildup": "What did the dog say to the two trees",
+      "punchline": "Bark bark."
+    },
+    {
+      "id": "146",
+      "buildup": "If a child refuses to sleep during nap time",
+      "punchline": "are they guilty of resisting a rest?"
+    },
+    {
+      "id": "147",
+      "buildup": "Have you ever heard of a music group called Cellophane",
+      "punchline": "They mostly wrap."
+    },
+    {
+      "id": "148",
+      "buildup": "What did the mountain climber name his son",
+      "punchline": "Cliff."
+    },
+    {
+      "id": "149",
+      "buildup": "Why should you never trust a pig with a secret",
+      "punchline": "Because it's bound to squeal."
+    },
+    {
+      "id": "150",
+      "buildup": "Why are mummys scared of vacation",
+      "punchline": "They're afraid to unwind."
+    }
+  ]
+}

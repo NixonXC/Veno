@@ -1,0 +1,754 @@
+{
+    "recommendations": [
+        {
+            "id": "1",
+            "song": "Good 4 U",
+            "artist": "Olivia Rodrigo",
+            "genre": "Pop/Rock"
+        },
+        {
+            "id": "2",
+            "song": "Levitating",
+            "artist": "Dua Lipa ft. DaBaby",
+            "genre": "Pop/Dance"
+        },
+        {
+            "id": "3",
+            "song": "Peaches",
+            "artist": "Justin Bieber ft. Daniel Caesar, Giveon",
+            "genre": "Pop/R&B"
+        },
+        {
+            "id": "4",
+            "song": "Save Your Tears",
+            "artist": "The Weeknd, Ariana Grande",
+            "genre": "Pop/R&B"
+        },
+        {
+            "id": "5",
+            "song": "Astronaut in the Ocean",
+            "artist": "Masked Wolf",
+            "genre": "Rap"
+        },
+        {
+            "id": "6",
+            "song": "Drivers License",
+            "artist": "Olivia Rodrigo",
+            "genre": "Pop"
+        },
+        {
+            "id": "7",
+            "song": "Mood",
+            "artist": "24kGoldn ft. iann dior",
+            "genre": "Pop/Rap"
+        },
+        {
+            "id": "8",
+            "song": "Blinding Lights",
+            "artist": "The Weeknd",
+            "genre": "Pop/R&B"
+        },
+        {
+            "id": "9",
+            "song": "Dynamite",
+            "artist": "BTS",
+            "genre": "K-Pop"
+        },
+        {
+            "id": "10",
+            "song": "WAP",
+            "artist": "Cardi B ft. Megan Thee Stallion",
+            "genre": "Rap"
+        },
+        {
+            "id": "11",
+            "song": "positions",
+            "artist": "Ariana Grande",
+            "genre": "Pop/R&B"
+        },
+        {
+            "id": "12",
+            "song": "Watermelon Sugar",
+            "artist": "Harry Styles",
+            "genre": "Pop/Rock"
+        },
+        {
+            "id": "13",
+            "song": "Body",
+            "artist": "Megan Thee Stallion",
+            "genre": "Rap"
+        },
+        {
+            "id": "14",
+            "song": "Therefore I Am",
+            "artist": "Billie Eilish",
+            "genre": "Pop/Alternative"
+        },
+        {
+            "id": "15",
+            "song": "Industry Baby",
+            "artist": "Lil Nas X ft. Jack Harlow",
+            "genre": "Pop/Rap"
+        },
+        {
+            "id": "16",
+            "song": "drivers license",
+            "artist": "Olivia Rodrigo",
+            "genre": "Pop"
+        },
+        {
+            "id": "17",
+            "song": "Heat Waves",
+            "artist": "Glass Animals",
+            "genre": "Indie/Alternative"
+        },
+        {
+            "id": "18",
+            "song": "RAPSTAR",
+            "artist": "Polo G",
+            "genre": "Rap"
+        },
+        {
+            "id": "19",
+            "song": "telepat\u00c3\u00ada",
+            "artist": "Kali Uchis",
+            "genre": "Pop/Latin"
+        },
+        {
+            "id": "20",
+            "song": "Leave The Door Open",
+            "artist": "Silk Sonic (Bruno Mars, Anderson .Paak)",
+            "genre": "R&B/Soul"
+        },
+        {
+            "id": "21",
+            "song": "Happier Than Ever",
+            "artist": "Billie Eilish",
+            "genre": "Pop/Alternative"
+        },
+        {
+            "id": "22",
+            "song": "Kiss Me More",
+            "artist": "Doja Cat ft. SZA",
+            "genre": "Pop/R&B"
+        },
+        {
+            "id": "23",
+            "song": "Essence",
+            "artist": "WizKid ft. Tems",
+            "genre": "Afrobeats"
+        },
+        {
+            "id": "24",
+            "song": "Beautiful Mistakes",
+            "artist": "Maroon 5 ft. Megan Thee Stallion",
+            "genre": "Pop/R&B"
+        },
+        {
+            "id": "25",
+            "song": "Heartbreak Anniversary",
+            "artist": "Giveon",
+            "genre": "R&B"
+        },
+        {
+            "id": "26",
+            "song": "Up",
+            "artist": "Cardi B",
+            "genre": "Rap"
+        },
+        {
+            "id": "27",
+            "song": "Streets",
+            "artist": "Doja Cat",
+            "genre": "R&B/Trap"
+        },
+        {
+            "id": "28",
+            "song": "Telepat\u00c3\u00ada",
+            "artist": "Kali Uchis",
+            "genre": "Pop/Latin"
+        },
+        {
+            "id": "29",
+            "song": "Goosebumps",
+            "artist": "Travis Scott, HVME",
+            "genre": "Trap/Electronic"
+        },
+        {
+            "id": "30",
+            "song": "Deja Vu",
+            "artist": "Olivia Rodrigo",
+            "genre": "Pop/Rock"
+        },
+        {
+            "id": "31",
+            "song": "Leave Before You Love Me",
+            "artist": "Marshmello, Jonas Brothers",
+            "genre": "Pop/Electronic"
+        },
+        {
+            "id": "32",
+            "song": "Lost Cause",
+            "artist": "Billie Eilish",
+            "genre": "Pop/Alternative"
+        },
+        {
+            "id": "33",
+            "song": "Thot Shit",
+            "artist": "Megan Thee Stallion",
+            "genre": "Rap"
+        },
+        {
+            "id": "34",
+            "song": "Bang!",
+            "artist": "AJR",
+            "genre": "Pop/Indie"
+        },
+        {
+            "id": "35",
+            "song": "Astronaut in the Ocean",
+            "artist": "Masked Wolf",
+            "genre": "Rap/Phonk"
+        },
+        {
+            "id": "36",
+            "song": "Rapstar",
+            "artist": "Polo G",
+            "genre": "Rap"
+        },
+        {
+            "id": "37",
+            "song": "Mood Swings",
+            "artist": "Pop Smoke ft. Lil Tjay",
+            "genre": "Rap/Trap"
+        },
+        {
+            "id": "38",
+            "song": "Met Him Last Night",
+            "artist": "Demi Lovato ft. Ariana Grande",
+            "genre": "Pop"
+        },
+        {
+            "id": "39",
+            "song": "Save Your Tears",
+            "artist": "The Weeknd",
+            "genre": "Pop/R&B"
+        },
+        {
+            "id": "40",
+            "song": "MONTERO (Call Me By Your Name)",
+            "artist": "Lil Nas X",
+            "genre": "Pop/Rap"
+        },
+        {
+            "id": "41",
+            "song": "Butter",
+            "artist": "BTS",
+            "genre": "K-Pop"
+        },
+        {
+            "id": "42",
+            "song": "Montero (Call Me By Your Name)",
+            "artist": "Lil Nas X",
+            "genre": "Pop/Rap"
+        },
+        {
+            "id": "43",
+            "song": "Goosebumps",
+            "artist": "Travis Scott",
+            "genre": "Hip-Hop"
+        },
+        {
+            "id": "44",
+            "song": "Levitating",
+            "artist": "Dua Lipa",
+            "genre": "Pop/Dance"
+        },
+        {
+            "id": "45",
+            "song": "The Business",
+            "artist": "Ti\u00c3\u00absto",
+            "genre": "Dance/Electronic"
+        },
+        {
+            "id": "46",
+            "song": "Shape of You",
+            "artist": "Ed Sheeran",
+            "genre": "Pop"
+        },
+        {
+            "id": "47",
+            "song": "Uptown Funk",
+            "artist": "Mark Ronson ft. Bruno Mars",
+            "genre": "Funk/Pop"
+        },
+        {
+            "id": "48",
+            "song": "Old Town Road",
+            "artist": "Lil Nas X ft. Billy Ray Cyrus",
+            "genre": "Country Rap"
+        },
+        {
+            "id": "49",
+            "song": "Thinking Out Loud",
+            "artist": "Ed Sheeran",
+            "genre": "Pop/R&B"
+        },
+        {
+            "id": "50",
+            "song": "Havana",
+            "artist": "Camila Cabello ft. Young Thug",
+            "genre": "Pop/Latin"
+        },
+        {
+            "id": "51",
+            "song": "Bad Guy",
+            "artist": "Billie Eilish",
+            "genre": "Pop/Alternative"
+        },
+        {
+            "id": "52",
+            "song": "Happy",
+            "artist": "Pharrell Williams",
+            "genre": "Pop/R&B"
+        },
+        {
+            "id": "53",
+            "song": "Rockstar",
+            "artist": "Post Malone ft. 21 Savage",
+            "genre": "Hip Hop"
+        },
+        {
+            "id": "54",
+            "song": "Despacito",
+            "artist": "Luis Fonsi ft. Daddy Yankee",
+            "genre": "Pop/Latin"
+        },
+        {
+            "id": "55",
+            "song": "Sicko Mode",
+            "artist": "Travis Scott ft. Drake",
+            "genre": "Hip Hop"
+        },
+        {
+            "id": "56",
+            "song": "Radioactive",
+            "artist": "Imagine Dragons",
+            "genre": "Alternative Rock"
+        },
+        {
+            "id": "57",
+            "song": "Closer",
+            "artist": "The Chainsmokers ft. Halsey",
+            "genre": "Pop/EDM"
+        },
+        {
+            "id": "58",
+            "song": "All of Me",
+            "artist": "John Legend",
+            "genre": "Pop/R&B"
+        },
+        {
+            "id": "59",
+            "song": "Girls Like You",
+            "artist": "Maroon 5 ft. Cardi B",
+            "genre": "Pop"
+        },
+        {
+            "id": "60",
+            "song": "Roses",
+            "artist": "SAINt JHN",
+            "genre": "Hip Hop/R&B"
+        },
+        {
+            "id": "61",
+            "song": "Don't Start Now",
+            "artist": "Dua Lipa",
+            "genre": "Pop/Disco"
+        },
+        {
+            "id": "62",
+            "song": "Bad Romance",
+            "artist": "Lady Gaga",
+            "genre": "Pop/Dance"
+        },
+        {
+            "id": "63",
+            "song": "Someone Like You",
+            "artist": "Adele",
+            "genre": "Pop/Soul"
+        },
+        {
+            "id": "64",
+            "song": "Perfect",
+            "artist": "Ed Sheeran",
+            "genre": "Pop/Ballad"
+        },
+        {
+            "id": "65",
+            "song": "WAP",
+            "artist": "Cardi B ft. Megan Thee Stallion",
+            "genre": "Hip Hop"
+        },
+        {
+            "id": "66",
+            "song": "Hey Jude",
+            "artist": "The Beatles",
+            "genre": "Rock"
+        },
+        {
+            "id": "67",
+            "song": "Can't Stop the Feeling!",
+            "artist": "Justin Timberlake",
+            "genre": "Pop/Funk"
+        },
+        {
+            "id": "68",
+            "song": "Firework",
+            "artist": "Katy Perry",
+            "genre": "Pop"
+        },
+        {
+            "id": "69",
+            "song": "Counting Stars",
+            "artist": "OneRepublic",
+            "genre": "Pop/Rock"
+        },
+        {
+            "id": "70",
+            "song": "High Hopes",
+            "artist": "Panic! At The Disco",
+            "genre": "Pop/Rock"
+        },
+        {
+            "id": "71",
+            "song": "Watermelon Sugar",
+            "artist": "Harry Styles",
+            "genre": "Pop"
+        },
+        {
+            "id": "72",
+            "song": "We Found Love",
+            "artist": "Rihanna ft. Calvin Harris",
+            "genre": "Pop/Dance"
+        },
+        {
+            "id": "73",
+            "song": "Hotline Bling",
+            "artist": "Drake",
+            "genre": "Hip Hop/R&B"
+        },
+        {
+            "id": "74",
+            "song": "Shake It Off",
+            "artist": "Taylor Swift",
+            "genre": "Pop"
+        },
+        {
+            "id": "75",
+            "song": "Sweet Child o' Mine",
+            "artist": "Guns N' Roses",
+            "genre": "Rock"
+        },
+        {
+            "id": "76",
+            "song": "Lose Yourself",
+            "artist": "Eminem",
+            "genre": "Hip Hop"
+        },
+        {
+            "id": "77",
+            "song": "Rolling in the Deep",
+            "artist": "Adele",
+            "genre": "Pop/Soul"
+        },
+        {
+            "id": "78",
+            "song": "Sorry",
+            "artist": "Justin Bieber",
+            "genre": "Pop"
+        },
+        {
+            "id": "79",
+            "song": "Billie Jean",
+            "artist": "Michael Jackson",
+            "genre": "Pop/R&B"
+        },
+        {
+            "id": "80",
+            "song": "I Will Always Love You",
+            "artist": "Whitney Houston",
+            "genre": "Pop/Ballad"
+        },
+        {
+            "id": "81",
+            "song": "Bohemian Rhapsody",
+            "artist": "Queen",
+            "genre": "Rock"
+        },
+        {
+            "id": "82",
+            "song": "Dancing Queen",
+            "artist": "ABBA",
+            "genre": "Pop/Disco"
+        },
+        {
+            "id": "83",
+            "song": "Hotel California",
+            "artist": "Eagles",
+            "genre": "Rock"
+        },
+        {
+            "id": "84",
+            "song": "Livin' on a Prayer",
+            "artist": "Bon Jovi",
+            "genre": "Rock"
+        },
+        {
+            "id": "85",
+            "song": "Smells Like Teen Spirit",
+            "artist": "Nirvana",
+            "genre": "Grunge/Rock"
+        },
+        {
+            "id": "86",
+            "song": "Wonderwall",
+            "artist": "Oasis",
+            "genre": "Rock"
+        },
+        {
+            "id": "87",
+            "song": "Hey Ya!",
+            "artist": "OutKast",
+            "genre": "Hip Hop/R&B"
+        },
+        {
+            "id": "88",
+            "song": "Sweet Home Alabama",
+            "artist": "Lynyrd Skynyrd",
+            "genre": "Southern Rock"
+        },
+        {
+            "id": "89",
+            "song": "Don't Stop Believin'",
+            "artist": "Journey",
+            "genre": "Rock"
+        },
+        {
+            "id": "90",
+            "song": "Shape of My Heart",
+            "artist": "Sting",
+            "genre": "Pop/Rock"
+        },
+        {
+            "id": "91",
+            "song": "Thriller",
+            "artist": "Michael Jackson",
+            "genre": "Pop/R&B"
+        },
+        {
+            "id": "92",
+            "song": "Every Breath You Take",
+            "artist": "The Police",
+            "genre": "Pop/Rock"
+        },
+        {
+            "id": "93",
+            "song": "Crazy in Love",
+            "artist": "Beyonc\u00c3\u00a9 ft. Jay-Z",
+            "genre": "Pop/R&B"
+        },
+        {
+            "id": "94",
+            "song": "Empire State of Mind",
+            "artist": "Jay-Z ft. Alicia Keys",
+            "genre": "Hip Hop/R&B"
+        },
+        {
+            "id": "95",
+            "song": "Imagine",
+            "artist": "John Lennon",
+            "genre": "Pop/Rock"
+        },
+        {
+            "id": "96",
+            "song": "Smooth",
+            "artist": "Santana ft. Rob Thomas",
+            "genre": "Rock/Latin"
+        },
+        {
+            "id": "97",
+            "song": "Don't You Want Me",
+            "artist": "The Human League",
+            "genre": "Synthpop"
+        },
+        {
+            "id": "98",
+            "song": "Eye of the Tiger",
+            "artist": "Survivor",
+            "genre": "Rock"
+        },
+        {
+            "id": "99",
+            "song": "The Way You Look Tonight",
+            "artist": "Frank Sinatra",
+            "genre": "Jazz/Pop"
+        },
+        {
+            "id": "100",
+            "song": "Wonderful Tonight",
+            "artist": "Eric Clapton",
+            "genre": "Rock/Blues"
+        },
+        {
+            "id": "101",
+            "song": "My Heart Will Go On",
+            "artist": "Celine Dion",
+            "genre": "Pop/Ballad"
+        },
+        {
+            "id": "102",
+            "song": "Sweet Dreams (Are Made of This)",
+            "artist": "Eurythmics",
+            "genre": "Synthpop"
+        },
+        {
+            "id": "103",
+            "song": "Piano Man",
+            "artist": "Billy Joel",
+            "genre": "Pop/Rock"
+        },
+        {
+            "id": "104",
+            "song": "All Star",
+            "artist": "Smash Mouth",
+            "genre": "Pop/Rock"
+        },
+        {
+            "id": "105",
+            "song": "We Will Rock You",
+            "artist": "Queen",
+            "genre": "Rock"
+        },
+        {
+            "id": "106",
+            "song": "Hallelujah",
+            "artist": "Leonard Cohen",
+            "genre": "Folk/Rock"
+        },
+        {
+            "id": "107",
+            "song": "Take on Me",
+            "artist": "a-ha",
+            "genre": "Synthpop"
+        },
+        {
+            "id": "108",
+            "song": "Drops of Jupiter",
+            "artist": "Train",
+            "genre": "Pop/Rock"
+        },
+        {
+            "id": "109",
+            "song": "Superstition",
+            "artist": "Stevie Wonder",
+            "genre": "Funk/R&B"
+        },
+        {
+            "id": "110",
+            "song": "Sweet Caroline",
+            "artist": "Neil Diamond",
+            "genre": "Pop/Rock"
+        },
+        {
+            "id": "111",
+            "song": "November Rain",
+            "artist": "Guns N' Roses",
+            "genre": "Rock"
+        },
+        {
+            "id": "112",
+            "song": "Mr. Brightside",
+            "artist": "The Killers",
+            "genre": "Indie Rock"
+        },
+        {
+            "id": "113",
+            "song": "I Want to Hold Your Hand",
+            "artist": "The Beatles",
+            "genre": "Rock"
+        },
+        {
+            "id": "114",
+            "song": "Clocks",
+            "artist": "Coldplay",
+            "genre": "Alternative Rock"
+        },
+        {
+            "id": "115",
+            "song": "Single Ladies (Put a Ring on It)",
+            "artist": "Beyonc\u00c3\u00a9",
+            "genre": "Pop/R&B"
+        },
+        {
+            "id": "116",
+            "song": "Proud Mary",
+            "artist": "Creedence Clearwater Revival",
+            "genre": "Rock"
+        },
+        {
+            "id": "117",
+            "song": "Boogie Wonderland",
+            "artist": "Earth, Wind & Fire",
+            "genre": "Disco/Funk"
+        },
+        {
+            "id": "118",
+            "song": "Crazy",
+            "artist": "Gnarls Barkley",
+            "genre": "Pop/Soul"
+        },
+        {
+            "id": "119",
+            "song": "You Give Love a Bad Name",
+            "artist": "Bon Jovi",
+            "genre": "Rock"
+        },
+        {
+            "id": "120",
+            "song": "Black Hole Sun",
+            "artist": "Soundgarden",
+            "genre": "Grunge/Rock"
+        },
+        {
+            "id": "121",
+            "song": "Another Brick in the Wall (Part II)",
+            "artist": "Pink Floyd",
+            "genre": "Rock"
+        },
+        {
+            "id": "122",
+            "song": "Losing My Religion",
+            "artist": "R.E.M.",
+            "genre": "Alternative Rock"
+        },
+        {
+            "id": "123",
+            "song": "Under Pressure",
+            "artist": "Queen & David Bowie",
+            "genre": "Rock"
+        },
+        {
+            "id": "124",
+            "song": "Take Me to Church",
+            "artist": "Hozier",
+            "genre": "Indie Rock"
+        },
+        {
+            "id": "125",
+            "song": "Under the Bridge",
+            "artist": "Red Hot Chili Peppers",
+            "genre": "Alternative Rock"
+        }
+    ]
+}

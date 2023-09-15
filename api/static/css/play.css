@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background-color: #141114;
+    color: white;
+}
+.main {
+    margin-top: 100px;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 2px;
+    font-size: 25px;
+    text-align: center;
+}
+.playground {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.code {
+    width: 200px;
+    height: 100px;
+    background-color: #ff00ff;
+}
+nav {
+    height: 70px;
+    background: #201c20;
+    margin-top: -10px;
+    margin-left: -20px;
+    margin-right: -8px;
+}
+.container {
+    margin-top: 10px;
+    display: inline-flex;
+}
+nav ul {
+    margin-left: 540px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+nav li {
+    font-weight: 900;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 35px;
+    letter-spacing: 3px;
+}
+.icon {
+    border-radius: 50%;
+    border: 1px solid rgb(255, 230, 230);
+    cursor: pointer;
+    margin-left: 20px;
+}
+.menu-logo {
+    width: 25px;
+    cursor: pointer;
+    display: none;
+}
+  
+#ul {
+    display: flex;
+}
+  
+#menu-ul {
+    display: none;
+    flex-direction: column;
+    list-style-type: none;
+    background-color: #0e0c0e;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    right: 0;
+}
+
+#menu-ul li {
+    padding: 20px;
+    border-top: 1px solid rgb(0, 0, 0, 0.1);
+}
+  
+#menu {
+    display: none;
+}
+@media screen and (max-width: 800px) {
+    #hide1 {
+        display: none;
+    }
+    #hide2 {
+        display: none;
+    }
+    #hide3 {
+        display: none;
+    }
+    nav ul {
+        display: none;
+    }
+    #menu {
+        display: block;
+        width: 40px !important;
+        margin-left: 320px;
+        filter: invert(100%) sepia(0%) saturate(7416%) hue-rotate(269deg) brightness(131%) contrast(100%);
+        margin-top: 10px;
+    }
+    #menu-ul {
+        display: none;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 0px;
+    }
+    #ul {
+        display: none;
+    }
+}

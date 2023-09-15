@@ -1,0 +1,836 @@
+{
+  "roasts": [
+    {
+      "id": "1",
+      "roast": "You look like a failed science experiment."
+    },
+    {
+      "id": "2",
+      "roast": "I wouldn't trust you to watch my pet rock."
+    },
+    {
+      "id": "3",
+      "roast": "You have the personality of a wet towel."
+    },
+    {
+      "id": "4",
+      "roast": "You're as useful as a screen door on a submarine."
+    },
+    {
+      "id": "5",
+      "roast": "I bet your parents regret having you."
+    },
+    {
+      "id": "6",
+      "roast": "You have a face only a mother could love... if she was blind."
+    },
+    {
+      "id": "7",
+      "roast": "You're so unimportant, your birth certificate was an apology letter from the condom factory."
+    },
+    {
+      "id": "8",
+      "roast": "You're about as smart as a box of rocks."
+    },
+    {
+      "id": "9",
+      "roast": "Your existence is an insult to evolution."
+    },
+    {
+      "id": "10",
+      "roast": "You're the reason why some animals eat their young."
+    },
+    {
+      "id": "11",
+      "roast": "You're like a fart in a hurricane, completely pointless."
+    },
+    {
+      "id": "12",
+      "roast": "You're so boring, your diary is just a to-do list."
+    },
+    {
+      "id": "13",
+      "roast": "You have the charm of a cheese grater."
+    },
+    {
+      "id": "14",
+      "roast": "You're the human equivalent of a participation trophy."
+    },
+    {
+      "id": "15",
+      "roast": "You have the sex appeal of a toothbrush."
+    },
+    {
+      "id": "16",
+      "roast": "You're so stupid, you probably need a recipe to make ice."
+    },
+    {
+      "id": "17",
+      "roast": "I bet your IQ is lower than your shoe size."
+    },
+    {
+      "id": "18",
+      "roast": "You're a waste of skin and oxygen."
+    },
+    {
+      "id": "19",
+      "roast": "You're as annoying as a mosquito in a nudist colony."
+    },
+    {
+      "id": "20",
+      "roast": "You have all the grace of a drunk elephant on roller skates."
+    },
+    {
+      "id": "21",
+      "roast": "You're the reason why aliens haven't visited us yet."
+    },
+    {
+      "id": "22",
+      "roast": "You're about as useful as a chocolate teapot."
+    },
+    {
+      "id": "23",
+      "roast": "I wouldn't trust you to pour water out of a boot with instructions on the heel."
+    },
+    {
+      "id": "24",
+      "roast": "You're so dumb, you couldn't pour water out of a boot even if the instructions were on the sole."
+    },
+    {
+      "id": "25",
+      "roast": "You have the charisma of a garden gnome."
+    },
+    {
+      "id": "26",
+      "roast": "You're the human equivalent of a traffic jam."
+    },
+    {
+      "id": "27",
+      "roast": "You're like a train wreck in slow motion."
+    },
+    {
+      "id": "28",
+      "roast": "You're as interesting as watching paint dry."
+    },
+    {
+      "id": "29",
+      "roast": "You have the social skills of a potato."
+    },
+    {
+      "id": "30",
+      "roast": "You're so uncool, even the cool kids avoid you."
+    },
+    {
+      "id": "31",
+      "roast": "You're the kind of person who would buy a ladder just to take a step up in the world."
+    },
+    {
+      "id": "32",
+      "roast": "You're so old, you fart dust."
+    },
+    {
+      "id": "33",
+      "roast": "You're the reason why we can't have nice things."
+    },
+    {
+      "id": "34",
+      "roast": "You're about as funny as a heart attack."
+    },
+    {
+      "id": "35",
+      "roast": "You have the fashion sense of a scarecrow."
+    },
+    {
+      "id": "36",
+      "roast": "You're the human equivalent of a flat tire."
+    },
+    {
+      "id": "37",
+      "roast": "You're so slow, you make snails look like Usain Bolt."
+    },
+    {
+      "id": "38",
+      "roast": "You have the appeal of a soggy sandwich."
+    },
+    {
+      "id": "39",
+      "roast": "You're the kind of person who would drown in a puddle."
+    },
+    {
+      "id": "40",
+      "roast": "You're as interesting as a blank sheet of paper."
+    },
+    {
+      "id": "41",
+      "roast": "You're so weak, a feather could knock you over."
+    },
+    {
+      "id": "42",
+      "roast": "You have the charisma of a parking meter."
+    },
+    {
+      "id": "43",
+      "roast": "You're the human equivalent of a stale piece of bread."
+    },
+    {
+      "id": "44",
+      "roast": "You're so unoriginal, you probably think \"YOLO\" is still cool."
+    },
+    {
+      "id": "45",
+      "roast": "You're the reason why people believe in ghosts."
+    },
+    {
+      "id": "46",
+      "roast": "You're about as impressive as a sneeze."
+    },
+    {
+      "id": "47",
+      "roast": "You have the social skills of a hermit."
+    },
+    {
+      "id": "48",
+      "roast": "You're the human equivalent of a cold shower."
+    },
+    {
+      "id": "49",
+      "roast": "You're so bland, even vanilla ice cream has more flavor than you."
+    },
+    {
+      "id": "50",
+      "roast": "You're the kind of person who would give a goldfish a headache."
+    },
+    {
+      "id": "51",
+      "roast": "You're so forgettable, I bet your name is on the tip of nobody's tongue."
+    },
+    {
+      "id": "52",
+      "roast": "You have the creativity of a cactus."
+    },
+    {
+      "id": "53",
+      "roast": "You're as interesting as watching grass grow."
+    },
+    {
+      "id": "54",
+      "roast": "You're so unattractive, even the Grim Reaper wouldn't want to take you."
+    },
+    {
+      "id": "55",
+      "roast": "You're the human equivalent of a tumbleweed."
+    },
+    {
+      "id": "56",
+      "roast": "You have the emotional range of a teaspoon."
+    },
+    {
+      "id": "57",
+      "roast": "You're the reason why people believe in flat earth theory."
+    },
+    {
+      "id": "58",
+      "roast": "You're so boring, your personality test results came back as \"N/A.\""
+    },
+    {
+      "id": "59",
+      "roast": "You're the kind of person who would use a calculator to figure out how many fingers they have."
+    },
+    {
+      "id": "60",
+      "roast": "You have the brain power of a hamster on a wheel."
+    },
+    {
+      "id": "61",
+      "roast": "You're about as likable as a paper cut."
+    },
+    {
+      "id": "62",
+      "roast": "You're the human equivalent of a mosquito bite."
+    },
+    {
+      "id": "63",
+      "roast": "You're so unimportant, I forgot what we were talking about."
+    },
+    {
+      "id": "64",
+      "roast": "You have the energy level of a sloth in a coma."
+    },
+    {
+      "id": "65",
+      "roast": "You're as useless as a screen door on a submarine that's already sunk."
+    },
+    {
+      "id": "66",
+      "roast": "You're so unimpressive, even a participation trophy would be too much of a stretch."
+    },
+    {
+      "id": "67",
+      "roast": "You have the personality of a cardboard box."
+    },
+    {
+      "id": "68",
+      "roast": "You're the human equivalent of a snooze button."
+    },
+    {
+      "id": "69",
+      "roast": "You're about as exciting as a tax audit."
+    },
+    {
+      "id": "70",
+      "roast": "You're the kind of person who would forget their own name if it wasn't written on their ID."
+    },
+    {
+      "id": "71",
+      "roast": "You're so bland, people use you as a baseline for comparison."
+    },
+    {
+      "id": "72",
+      "roast": "You have the charisma of a potato chip."
+    },
+    {
+      "id": "73",
+      "roast": "You're the reason why people drink alone."
+    },
+    {
+      "id": "74",
+      "roast": "You're so unremarkable, even your shadow looks bored."
+    },
+    {
+      "id": "75",
+      "roast": "You're the human equivalent of a traffic cone."
+    },
+    {
+      "id": "76",
+      "roast": "You're about as trustworthy as a used car salesman."
+    },
+    {
+      "id": "77",
+      "roast": "You have the energy of a sloth with a hangover."
+    },
+    {
+      "id": "78",
+      "roast": "You're the kind of person who would misspell their own name."
+    },
+    {
+      "id": "79",
+      "roast": "You're so mediocre, you make beige look bold."
+    },
+    {
+      "id": "80",
+      "roast": "You're the human equivalent of a spam email."
+    },
+    {
+      "id": "81",
+      "roast": "You're about as charming as a swarm of locusts."
+    },
+    {
+      "id": "82",
+      "roast": "You have the appeal of a parking ticket."
+    },
+    {
+      "id": "83",
+      "roast": "You're the reason why people listen to elevator music."
+    },
+    {
+      "id": "84",
+      "roast": "You're so forgettable, I bet you couldn't even remember your own birthday without Facebook reminding you."
+    },
+    {
+      "id": "85",
+      "roast": "You're the kind of person who would get lost in their own house."
+    },
+    {
+      "id": "86",
+      "roast": "You're about as cool as a cucumber with a sunburn."
+    },
+    {
+      "id": "87",
+      "roast": "You have the enthusiasm of a sloth on Valium."
+    },
+    {
+      "id": "88",
+      "roast": "You're the human equivalent of a malfunctioning vending machine."
+    },
+    {
+      "id": "89",
+      "roast": "You're so uncool, even your imaginary friend doesn't want to hang out with you."
+    },
+    {
+      "id": "90",
+      "roast": "You're the kind of person who would trip over a flat surface."
+    },
+    {
+      "id": "91",
+      "roast": "You're about as interesting as a beige wall."
+    },
+    {
+      "id": "92",
+      "roast": "You have the personality of a tax form."
+    },
+    {
+      "id": "93",
+      "roast": "You're the reason why people hate Mondays."
+    },
+    {
+      "id": "94",
+      "roast": "You're so unremarkable, you make plain toast look exciting."
+    },
+    {
+      "id": "95",
+      "roast": "You're the human equivalent of a traffic jam on a one-lane road."
+    },
+    {
+      "id": "96",
+      "roast": "You're about as inspiring as a soggy napkin."
+    },
+    {
+      "id": "97",
+      "roast": "You have the appeal of a doorknob."
+    },
+    {
+      "id": "98",
+      "roast": "You're the kind of person who would forget their own anniversary."
+    },
+    {
+      "id": "99",
+      "roast": "You're so dull, people fall asleep just thinking about you."
+    },
+    {
+      "id": "100",
+      "roast": "You're the reason why people avoid eye contact in public."
+    },
+    {
+      "id": "101",
+      "roast": "You're about as exciting as watching paint dry on a wall."
+    },
+    {
+      "id": "102",
+      "roast": "You have the personality of a wet sock."
+    },
+    {
+      "id": "103",
+      "roast": "You're the human equivalent of a wet blanket."
+    },
+    {
+      "id": "104",
+      "roast": "You're so unremarkable, people forget you exist."
+    },
+    {
+      "id": "105",
+      "roast": "You're the kind of person who would get lost in a one-way street."
+    },
+    {
+      "id": "106",
+      "roast": "You have the charm of a dead fish."
+    },
+    {
+      "id": "107",
+      "roast": "You're the reason why people don't trust politicians."
+    },
+    {
+      "id": "108",
+      "roast": "You're so boring, people would rather do their taxes than spend time with you."
+    },
+    {
+      "id": "109",
+      "roast": "You're the human equivalent of a beige room."
+    },
+    {
+      "id": "110",
+      "roast": "You have the energy of a sloth on sleeping pills."
+    },
+    {
+      "id": "111",
+      "roast": "You're about as interesting as a broken pencil sharpener."
+    },
+    {
+      "id": "112",
+      "roast": "You're the kind of person who would forget how to breathe if it wasn't automatic."
+    },
+    {
+      "id": "113",
+      "roast": "You have the charisma of a doorknob."
+    },
+    {
+      "id": "114",
+      "roast": "You're the reason why people avoid talking to strangers."
+    },
+    {
+      "id": "115",
+      "roast": "You're so unimpressive, people mistake you for a wallflower."
+    },
+    {
+      "id": "116",
+      "roast": "You're the human equivalent of a traffic cone at a deserted intersection."
+    },
+    {
+      "id": "117",
+      "roast": "You have the appeal of a parking ticket on a windshield."
+    },
+    {
+      "id": "118",
+      "roast": "You're about as exciting as a library book on tax law."
+    },
+    {
+      "id": "119",
+      "roast": "You're the kind of person who would lose a staring contest to a statue."
+    },
+    {
+      "id": "120",
+      "roast": "You have the charm of a rusty nail."
+    },
+    {
+      "id": "121",
+      "roast": "You're the reason why people don't trust used car salesmen."
+    },
+    {
+      "id": "122",
+      "roast": "You're so dull, you make a blank page look exciting."
+    },
+    {
+      "id": "123",
+      "roast": "You're the human equivalent of a blank expression."
+    },
+    {
+      "id": "124",
+      "roast": "You have the energy of a sloth on tranquilizers."
+    },
+    {
+      "id": "125",
+      "roast": "You're about as interesting as a lecture on insurance policies."
+    },
+    {
+      "id": "126",
+      "roast": "You're the kind of person who would forget their own phone number."
+    },
+    {
+      "id": "127",
+      "roast": "You have the charisma of a cardboard box."
+    },
+    {
+      "id": "128",
+      "roast": "You're the reason why people don't answer calls from unknown numbers."
+    },
+    {
+      "id": "129",
+      "roast": "You're so unremarkable, people forget what they were talking about when they look at you."
+    },
+    {
+      "id": "130",
+      "roast": "You're the human equivalent of a traffic jam on a deserted road."
+    },
+    {
+      "id": "131",
+      "roast": "You have the appeal of a rotting piece of fruit."
+    },
+    {
+      "id": "132",
+      "roast": "You're about as exciting as watching grass grow on a cloudy day."
+    },
+    {
+      "id": "133",
+      "roast": "You're the kind of person who would forget their own address."
+    },
+    {
+      "id": "134",
+      "roast": "You have the charm of a used tissue."
+    },
+    {
+      "id": "135",
+      "roast": "You're the reason why people don't trust online reviews."
+    },
+    {
+      "id": "136",
+      "roast": "You're so uninteresting, people would rather read the dictionary than listen to you."
+    },
+    {
+      "id": "137",
+      "roast": "You're the human equivalent of a broken escalator."
+    },
+    {
+      "id": "138",
+      "roast": "You have the energy of a sloth in hibernation."
+    },
+    {
+      "id": "139",
+      "roast": "You're about as interesting as a lecture on wallpaper patterns."
+    },
+    {
+      "id": "140",
+      "roast": "You're the kind of person who would forget their own face if they looked in a mirror too long."
+    },
+    {
+      "id": "141",
+      "roast": "You have the charisma of a brick wall."
+    },
+    {
+      "id": "142",
+      "roast": "You're the reason why people don't trust fortune tellers."
+    },
+    {
+      "id": "143",
+      "roast": "You're so forgettable, people forget what they were going to say before they even say it to you."
+    },
+    {
+      "id": "144",
+      "roast": "You're the human equivalent of a revolving door that doesn't revolve."
+    },
+    {
+      "id": "145",
+      "roast": "You have the appeal of a rotten egg."
+    },
+    {
+      "id": "146",
+      "roast": "You're about as exciting as a broken pencil."
+    },
+    {
+      "id": "147",
+      "roast": "You're the kind of person who would forget their own birthday if it wasn't for Facebook notifications."
+    },
+    {
+      "id": "148",
+      "roast": "You have the charm of a rusted piece of metal."
+    },
+    {
+      "id": "149",
+      "roast": "You're the reason why people don't trust weather forecasts."
+    },
+    {
+      "id": "150",
+      "roast": "You're so dull, you make a blank canvas look colorful"
+    },
+    {
+      "id": "151",
+      "roast": "You're so boring, you make a rock seem like a party animal."
+    },
+    {
+      "id": "152",
+      "roast": "Your personality is so bland, even saltless crackers have more flavor."
+    },
+    {
+      "id": "153",
+      "roast": "Your existence is a waste of space and oxygen."
+    },
+    {
+      "id": "154",
+      "roast": "You have the intelligence of a dead slug."
+    },
+    {
+      "id": "155",
+      "roast": "I've met potatoes with more charisma than you."
+    },
+    {
+      "id": "156",
+      "roast": "You're so unoriginal, you make a photocopy of a blank piece of paper seem interesting."
+    },
+    {
+      "id": "157",
+      "roast": "Your face looks like it was sculpted by a blind person with no arms."
+    },
+    {
+      "id": "158",
+      "roast": "You have the emotional range of a rock."
+    },
+    {
+      "id": "159",
+      "roast": "You're a walking, talking disappointment."
+    },
+    {
+      "id": "160",
+      "roast": "Your life is a tragedy with no audience."
+    },
+    {
+      "id": "161",
+      "roast": "You're so irrelevant, even Google can't find anything about you."
+    },
+    {
+      "id": "162",
+      "roast": "You're the reason why birth control was invented."
+    },
+    {
+      "id": "163",
+      "roast": "Your breath smells like a trash heap."
+    },
+    {
+      "id": "164",
+      "roast": "You're a waste of skin and bones."
+    },
+    {
+      "id": "165",
+      "roast": "You're so annoying, mosquitoes avoid biting you out of fear of catching your attitude."
+    },
+    {
+      "id": "166",
+      "roast": "Your jokes are so bad, I'd rather listen to a dentist's drill."
+    },
+    {
+      "id": "167",
+      "roast": "You're so selfish, you make Scrooge look like Mother Teresa."
+    },
+    {
+      "id": "168",
+      "roast": "You have the personality of a moldy sandwich."
+    },
+    {
+      "id": "169",
+      "roast": "You're so clueless, you'd struggle to find water if you were drowning in a lake."
+    },
+    {
+      "id": "170",
+      "roast": "Your existence is a reminder that natural selection isn't always effective."
+    },
+    {
+      "id": "171",
+      "roast": "You're a human version of a participation trophy."
+    },
+    {
+      "id": "172",
+      "roast": "You're so ugly, mirrors shatter when you look at them."
+    },
+    {
+      "id": "173",
+      "roast": "You're the type of person who uses Comic Sans unironically."
+    },
+    {
+      "id": "174",
+      "roast": "Your IQ is so low, it's in the negatives."
+    },
+    {
+      "id": "175",
+      "roast": "You're a disgrace to humanity."
+    },
+    {
+      "id": "176",
+      "roast": "You have the fashion sense of a blind clown."
+    },
+    {
+      "id": "177",
+      "roast": "You're so pathetic, even the smallest insect could defeat you in a fight."
+    },
+    {
+      "id": "178",
+      "roast": "You're the epitome of failure."
+    },
+    {
+      "id": "179",
+      "roast": "You're so unattractive, even your own hand won't hold yours."
+    },
+    {
+      "id": "180",
+      "roast": "Your existence is a waste of potential."
+    },
+    {
+      "id": "181",
+      "roast": "You have the social skills of a brick wall."
+    },
+    {
+      "id": "182",
+      "roast": "You're the reason why people lose faith in humanity."
+    },
+    {
+      "id": "183",
+      "roast": "Your jokes are so bad, I'd rather listen to a baby cry for hours."
+    },
+    {
+      "id": "184",
+      "roast": "You're the definition of a dead-end."
+    },
+    {
+      "id": "185",
+      "roast": "You're so uninteresting, I'd rather watch paint dry."
+    },
+    {
+      "id": "186",
+      "roast": "You're so boring, you make an elevator ride seem like a roller coaster."
+    },
+    {
+      "id": "187",
+      "roast": "You're the type of person who puts pineapple on pizza."
+    },
+    {
+      "id": "188",
+      "roast": "You're the reason why aliens don't want to visit Earth."
+    },
+    {
+      "id": "189",
+      "roast": "You have the mental capacity of a teaspoon."
+    },
+    {
+      "id": "190",
+      "roast": "You're so forgettable, I've already forgotten your name."
+    },
+    {
+      "id": "191",
+      "roast": "You're a disgrace to your family."
+    },
+    {
+      "id": "192",
+      "roast": "You're so irrelevant, your obituary will just say \"nobody cared\"."
+    },
+    {
+      "id": "193",
+      "roast": "You're the reason why people have trust issues."
+    },
+    {
+      "id": "194",
+      "roast": "You have the charisma of a wet sponge."
+    },
+    {
+      "id": "195",
+      "roast": "You're so lazy, even sloths are impressed."
+    },
+    {
+      "id": "196",
+      "roast": "You're a waste of space and time."
+    },
+    {
+      "id": "197",
+      "roast": "You're the type of person who never gets invited anywhere."
+    },
+    {
+      "id": "198",
+      "roast": "You're the human equivalent of a mosquito bite - annoying, but ultimately insignificant."
+    },
+    {
+      "id": "199",
+      "roast": "You have the creativity of a rock."
+    },
+    {
+      "id": "200",
+      "roast": "You're so boring, I'd rather stare at a blank wall."
+    },
+    {
+      "id": "201",
+      "roast": "Your personality is as appealing as a root canal."
+    },
+    {
+      "id": "202",
+      "roast": "You're a living, breathing example of what not to be."
+    },
+    {
+      "id": "203",
+      "roast": "You're so incompetent, you couldn't pour water out of a boot if the instructions were on the heel."
+    },
+    {
+      "id": "204",
+      "roast": "You're the type of person who always brings a cloud of negativity with them."
+    },
+    {
+      "id": "205",
+      "roast": "You're so annoying, even a mute person would ask you to shut up."
+    },
+    {
+      "id": "206",
+      "roast": "You're the reason why people have nightmares."
+    },
+    {
+      "id": "207",
+      "roast": "Your presence is more unwelcome than a telemarketer's call."
+    },
+    {
+      "id": "208",
+      "roast": "You're a complete and utter disappointment to everyone who has ever known you."
+    }
+  ]
+}
